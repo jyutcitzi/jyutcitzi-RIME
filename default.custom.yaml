@@ -1,0 +1,6 @@
+patch:
+  "menu/page_size": 10
+  schema_list:
+    - schema: jyutcitzi_web
+    - schema: jyutcitzi_font
+    - schema: jyut6ping3

@@ -1,0 +1,2589 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: jyutcitzi_web.lettered
+version: "2"
+sort: by_weight
+use_preset_vocabulary: true
+...
+央乍ﾞ·央乜¯·大欠´·	jaa6 jat1 dim2
+央乍·央乜·大欠·	jaa jat dim
+央子ﾞ·央乜¯·厶彡¯·天兮´·止工`·亾十ﾞ·止丁`·	ji6 jat1 saam1 tai2 zung3 hap6 zing3
+央子·央乜·厶彡·天兮·止工·亾十·止丁·	ji jat saam tai zung hap zing
+央子ﾞ·力玉¯·	ji6 luk1
+央子·力玉·	ji luk
+厶彡¯·厶子¯·	saam1 si1
+厶彡·厶子·	saam si
+厶彡¯·并子¯·	saam1 pi1
+厶彡·并子·	saam pi
+厶丌`·央子ﾞ·力丁⁼·	sei3 ji6 ling4
+厶丌·央子·力丁·	sei ji ling
+厶丌`·央子ﾞ·力玉ﾞ·	sei3 ji6 luk6
+厶丌·央子·力玉·	sei ji luk
+厶丌`·厶彡¯·比压`·	sei3 saam1 baat3
+厶丌·厶彡·比压·	sei saam baat
+厶丌`·々·央子ﾞ·厶丌`·	sei3 sei3 ji6 sei3
+厶丌·々·央子·厶丌·	sei sei ji sei
+厶丌`·比压`·丩久´·	sei3 baat3 gau2
+厶丌·比压·丩久·	sei baat gau
+𠄡˝·々·	ng5 ng5
+𠄡·々·	ng ng
+𠄡˝·厶十ﾞ·力玉ﾞ·臼丌¯·	ng5 sap6 luk6 kei1
+𠄡·厶十·力玉·臼丌·	ng sap luk kei
+𠄡˝·乍`ﾞ·力玉ﾞ·臼丌¯·	ng5 aa6 luk6 kei1
+𠄡·乍`·力玉·臼丌·	ng aa luk kei
+𠄡˝·并子¯·止兮´·	ng5 pi1 zai2
+𠄡·并子·止兮·	ng pi zai
+5·并子·仔	ng5 pi1 zai2
+力玉¯·此乜ﾞ·	luk1 cat6
+力玉·此乜·	luk cat
+力玉ﾞ·比压`·丩久´·	luk6 baat3 gau2
+力玉·比压·丩久·	luk baat gau
+此乜¯·厶十ﾞ·央乜¯·	cat1 sap6 jat1
+此乜·厶十·央乜·	cat sap jat
+此乜¯·々·此乜¯·	cat1 cat1 cat1
+此乜·々·々·	cat cat cat
+比压`·々·并介⁼·	baat3 baat3 paai4
+比压·々·并介·	baat baat paai
+丩久´·此乜¯·	gau2 cat1
+丩久·此乜·	gau cat
+丩久¯·十`¯·并乍⁼·	gau1 ap1 paa4
+丩久·十`·并乍·	gau ap paa
+丌`¯·力丁⁼·	ei1 ling4
+丌`·力丁·	ei ling
+丌`¯·夫个¯·止子´·	ei1 fo1 zi2
+丌`·夫个·止子·	ei fo zi
+丌`·夫个·紙	ei1 fo1 zi2
+丌`¯·々·丩丂¯·	ei1 ei1 gaau1
+丌`·々·丩丂·	ei ei gaau
+丌`·丌`·膠	ei1 ei1 gaau1
+丌`¯·々·止兮`·	ei1 ei1 zai3
+丌`·々·止兮·	ei ei zai
+丌`·丌`·制	ei1 ei1 zai3
+丌`¯·比子¯·厶子¯·	ei1 bi1 si1
+丌`·比子·厶子·	ei bi si
+丌`¯·比子¯·丩丂¯·	ei1 bi1 gaau1
+丌`·比子·丩丂·	ei bi gaau
+丌`·比子·膠	ei1 bi1 gaau1
+丌`¯·比子¯·止兮`·	ei1 bi1 zai3
+丌`·比子·止兮·	ei bi zai
+丌`·比子·制	ei1 bi1 zai3
+丌`¯·厶子¯·	ei1 si1
+丌`·厶子·	ei si
+乍`ﾞ·臼万¯·	aa6 kaan1
+乍`·臼万·	aa kaan
+丌`¯·厶子´·	ei1 si2
+丌`·厶子·	ei si
+丌`¯·厶子¯·冇`¯·	ei1 si1 ou1
+丌`·厶子·冇`·	ei si ou
+丌`¯·止卂´·	ei1 zeon2
+丌`·止卂·	ei zeon
+丌`¯·臼丌¯·	ei1 kei1
+丌`·臼丌·	ei kei
+个`¯·比尺¯·	o1 bek1
+个`·比尺·	o bek
+匃`¯·	ot1
+匃`·	ot
+个`ﾞ·天丈¯·乃夕⁼·	o6 toeng1 nik4
+个`·天丈·乃夕·	o toeng nik
+今`⁼·	am4
+今`·	am
+丌`¯·文叐¯·	ei1 met1
+丌`·文叐·	ei met
+円`¯·乃子⁼·禾丌⁼·	en1 ni4 wei4
+円`·乃子·禾丌·	en ni wei
+円`¯·丩丌¯·	en1 gei1
+円`·丩丌·	en gei
+円`·機	en1 gei1
+丌`¯·冇`¯·	ei1 ou1
+丌`·冇`·	ei ou
+夾`¯·	ep1
+夾`·	ep
+夾`¯·厶子´·	ep1 si2
+夾`·厶子·	ep si
+乍`¯·臼子´·	aa1 ki2
+乍`·臼子·	aa ki
+百`¯·臼子´·	aak1 ki2
+百`·臼子·	aak ki
+乍`¯·臼子´·	aa1 ki2
+乍`·臼子·	aa ki
+百`¯·臼子´·	aak1 ki2
+百`·臼子·	aak ki
+乍`¯·丩么⁼·	aa1 giu4
+乍`·丩么·	aa giu
+乍``·厶介¯·文云⁼·	aa3 saai1 man4
+乍`·厶介·文云·	aa saai man
+乍``·厶介¯·文云´·	aa3 saai1 man2
+乍`·厶介·文云·	aa saai man
+丌`¯·天子¯·壬`¯·	ei1 ti1 em1
+丌`·天子·壬`·	ei ti em
+丂`¯·大子´·	aau1 di2
+丂`·大子·	aau di
+万`¯·天子⁼·	aan1 ti4
+万`·天子·	aan ti
+丌`¯·禾子¯·	ei1 wi1
+丌`·禾子·	ei wi
+丌`¯·禾子¯·乃句˝·央久¯·	ei1 wi1 neoi5 jau1
+丌`·禾子·乃句·央久·	ei wi neoi jau
+丌`·禾子·女優	ei1 wi1 neoi5 jau1
+丌`¯·夫个`·	ei1 fo3
+丌`·夫个·	ei fo
+丌`·貨	ei1 fo3
+丌`¯·臼乍¯·	ei1 kaa1
+丌`·臼乍·	ei kaa
+丌`·咖	ei1 kaa1
+丌`¯·丩乍`·	ei1 gaa3
+丌`·丩乍·	ei gaa
+丌`·咖	ei1 gaa3
+丌`¯·并千´·	ei1 pin2
+丌`·并千·	ei pin
+丌`·片	ei1 pin2
+丌`¯·亾元¯·央子⁼·	ei1 hyun1 ji4
+丌`·亾元·央子·	ei hyun ji
+丌`·圈兒	ei1 hyun1 ji4
+丌`¯·止兮´·	ei1 zai2
+丌`·止兮·	ei zai
+丌`·仔	ei1 zai2
+丌`¯·止彡ﾞ·	ei1 zaam6
+丌`·止彡·	ei zaam
+丌`·站	ei1 zaam6
+丌`¯·止卂´·	ei1 zeon2
+丌`·止卂·	ei zeon
+丌`·準	ei1 zeon2
+丌`¯·止子ﾞ·比乇`·	ei1 zi6 bok3
+丌`·止子·比乇·	ei zi bok
+丌`·字膊	ei1 zi6 bok3
+比丌¯·比子¯·夫叐¯·	bei1 bi1 fet1
+比丌·比子·夫叐·	bei bi fet
+比尺¯·十`¯·	bek1 ap1
+比尺·十`·	bek ap
+比个¯·	bo1
+比个·	bo
+比円¯·	ben1
+比円·	ben
+比正¯·	beng1
+比正·	beng
+比円¯·止兮´·	ben1 zai2
+比円·止兮·	ben zai
+比円·仔	ben1 zai2
+比生⁼·央乜¯·厶正¯·	baang4 jat1 seng1
+比生·央乜·厶正·	baang jat seng
+比生·一聲	baang4 jat1 seng1
+比円¯·乃乍´·	ben1 naa2
+比円·乃乍·	ben naa
+比乍¯·	baa1
+比乍·	baa
+比乍¯·臼玉¯·	baa1 kuk1
+比乍·臼玉·	baa kuk
+比乍¯·臼丁¯·	baa1 king1
+比乍·臼丁·	baa king
+比子¯·々·	bi1 bi1
+比子·々·	bi bi
+比必¯·々·	bit1 bit1
+比必·々·	bit bit
+比子⁼·比子¯·	bi4 bi1
+比子·々·	bi bi
+比子¯·々·丌`¯·	bi1 bi1 ei1
+比子·々·丌`·	bi bi ei
+比子¯·々·臼么¯·	bi1 bi1 kiu1
+比子·々·臼么·	bi bi kiu
+比子⁼·比子¯·此旡¯·	bi4 bi1 ce1
+比子·々·此旡·	bi bi ce
+比子·比子·車	bi4 bi1 ce1
+比子⁼·比子¯·此王⁼·	bi4 bi1 cong4
+比子·々·此王·	bi bi cong
+比子·比子·床	bi4 bi1 cong4
+比子¯·々·大万´·	bi1 bi1 daan2
+比子·々·大万·	bi bi daan
+比子·比子·彈	bi1 bi1 daan2
+比子⁼·比子¯·大亙`·	bi4 bi1 dang3
+比子·々·大亙·	bi bi dang
+比子·比子·櫈	bi4 bi1 dang3
+比子⁼·比子¯·古乜¯·	bi4 bi1 gwat1
+比子·々·古乜·	bi bi gwat
+比子·比子·骨	bi4 bi1 gwat1
+比子⁼·比子¯·禾乍´·	bi4 bi1 waa2
+比子·々·禾乍·	bi bi waa
+比子·比子·話	bi4 bi1 waa2
+比子¯·々·丩丌¯·	bi1 bi1 gei1
+比子·々·丩丌·	bi bi gei
+比子·比子·機	bi1 bi1 gei1
+比子⁼·比子¯·厶彡¯·	bi4 bi1 saam1
+比子·々·厶彡·	bi bi saam
+比子·比子·衫	bi4 bi1 saam1
+比子⁼·比子¯·止兮´·	bi4 bi1 zai2
+比子·々·止兮·	bi bi zai
+比子·比子·仔	bi4 bi1 zai2
+比必¯·	bit1
+比必·	bit
+比了ﾞ·亾丐¯·	beu6 hoi1
+比了·亾丐·	beu hoi
+比了·開	beu6 hoi1
+比円¯·厶子´·	ben1 si2
+比円·厶子·	ben si
+比円¯·厶子´·	ben1 si2
+比円·厶子·	ben si
+比円·屎	ben1 si2
+比円¯·厶子´·	ben1 si2
+比円·厶子·	ben si
+比円·士	ben1 si2
+比叐⁼·々·	bet4 bet4
+比叐·々·	bet bet
+比叐ﾞ·々·	bet6 bet6
+比叐·々·	bet bet
+比介ﾞ·	baai6
+比介·	baai
+比子⁼·々·比乍⁼·々·	bi4 bi4 baa4 baa4
+比子·々·比乍·々·	bi bi baa baa
+比子⁼·比子¯·比乍⁼·々·	bi4 bi1 baa4 baa4
+比子·々·比乍·々·	bi bi baa baa
+比子¯·々·比乍¯·々·	bi1 bi1 baa1 baa1
+比子·々·比乍·々·	bi bi baa baa
+比子¯·比乎`·	bi1 bu3
+比子·比乎·	bi bu
+比子¯·比乎ﾞ·	bi1 bu6
+比子·比乎·	bi bu
+比子¯·比乎`·比子¯·比乎`·	bi1 bu3 bi1 bu3
+比子·比乎·比子·比乎·	bi bu bi bu
+比子¯·比乎ﾞ·比子¯·比乎ﾞ·	bi1 bu6 bi1 bu6
+比子·比乎·比子·比乎·	bi bu bi bu
+比子¯·比乎`·此旡¯·	bi1 bu3 ce1
+比子·比乎·此旡·	bi bu ce
+比子·比乎·車	bi1 bu3 ce1
+比必¯·	bit1
+比必·	bit
+比夕¯·夫个¯·	bik1 fo1
+比夕·夫个·	bik fo
+比子⁼·力子⁼·比乍⁼·力乍⁼·	bi4 li4 baa4 laa4
+比子·力子·比乍·力乍·	bi li baa laa
+比子⁼·力子¯·比乍⁼·力乍⁼·	bi4 li1 baa4 laa4
+比子·力子·比乍·力乍·	bi li baa laa
+比子¯·力子¯·比乍¯·力乍¯·	bi1 li1 baa1 laa1
+比子·力子·比乍·力乍·	bi li baa laa
+比子⁼·力子¯·比尺⁼·力尺⁼·	bi4 li1 bek4 lek4
+比子·力子·比尺·力尺·	bi li bek lek
+比丁¯·丩冇⁼·	bing1 gou4
+比丁·丩冇·	bing gou
+比介ﾞ·个`¯·	baai6 o1
+比介·个`·	baai o
+比必¯·	bit1
+比必·	bit
+比匃¯·	bot1
+比匃·	bot
+比匃¯·丩壬¯·	bot1 gem1
+比匃·丩壬·	bot gem
+比个¯·大子¯·此尺¯·	bo1 di1 cek1
+比个·大子·此尺·	bo di cek
+比个¯·大子¯·文乜ﾞ·厶乍¯·此子⁼·	bo1 di1 mat6 saa1 ci4
+比个·大子·文乜·厶乍·此子·	bo di mat saa ci
+比乎⁼·止百¯·	bu4 zaak1
+比乎·止百·	bu zaak
+比玉¯·	buk1
+比玉·	buk
+比玉¯·丩丌¯·并么`·	buk1 gei1 piu3
+比玉·丩丌·并么·	buk gei piu
+比玉·機票	buk1 gei1 piu3
+比玉¯·止久´·大欠`·	buk1 zau2 dim3
+比玉·止久·大欠·	buk zau dim
+比玉·酒店	buk1 zau2 dim3
+比玉¯·禾兮´·	buk1 wai2
+比玉·禾兮·	buk wai
+比玉·位	buk1 wai2
+比玉¯·𠄡⁼·大冇´·禾兮´·	buk1 m4 dou2 wai2
+比玉·𠄡·大冇·禾兮·	buk m dou wai
+比玉·𠄡到位	buk1 m4 dou2 wai2
+比末¯·	but1
+比末·	but
+比末¯·丩丌¯·	but1 gei1
+比末·丩丌·	but gei
+比末·機	but1 gei1
+并冇ﾞ·天必¯·	pou6 tit1
+并冇·天必·	pou tit
+比乇¯·厶丁´·央久⁼·	bok1 sing2 jau4
+比乇·厶丁·央久·	bok sing jau
+比乇·厶丁·油	bok1 sing2 jau4
+比丐¯·	boi1
+比丐·	boi
+比乍¯·	baa1
+比乍·	baa
+比子¯·夫丁´·	bi1 fing2
+比子·夫丁·	bi fing
+比子¯·天子¯·	bi1 ti1
+比子·天子·	bi ti
+比乜¯·止夕⁼·	bat1 zik4
+比乜·止夕·	bat zik
+并冇ﾞ·夫丌¯·	pou6 fei1
+并冇·夫丌·	pou fei
+比冇ﾞ·夫丌¯·	bou6 fei1
+比冇·夫丌·	bou fei
+比仄¯·	bak1
+比仄·	bak
+比乎¯·力子⁼·	bu1 li4
+比乎·力子·	bu li
+比介¯·	baai1
+比介·	baai
+比乎⁼·乃子˝·乍``·文个¯·	bu4 ni5 aa3 mo1
+比乎·乃子·乍`·文个·	bu ni aa mo
+比乎·你·乍`·麼	bu4 ni5 aa3 mo1
+比兮¯·	bai1
+比兮·	bai
+比子¯·此么¯·	bi1 ciu1
+比子·此么·	bi ciu
+比子·超	bi1 ciu1
+比子¯·央丁⁼·此么¯·厶丁¯·	bi1 jing4 ciu1 sing1
+比子·央丁·此么·厶丁·	bi jing ciu sing
+比子·型超聲	bi1 jing4 ciu1 sing1
+比子¯·止兮´·	bi1 zai2
+比子·止兮·	bi zai
+比子·仔	bi1 zai2
+比子¯·止彡ﾞ·	bi1 zaam6
+比子·止彡·	bi zaam
+比子·站	bi1 zaam6
+厶子¯·力玉ﾞ·	si1 luk6
+厶子·力玉·	si luk
+厶子¯·乃介¯·	si1 naai1
+厶子·乃介·	si naai
+臼乜ﾞ·夫丌¯·	kat6 fei1
+臼乜·夫丌·	kat fei
+臼乜ﾞ·夫丌¯·	kat6 fei1
+臼乜·夫丌·	kat fei
+臼乜·夫丌·	kat6 fei1
+臼夕¯·	kik1
+臼夕·	kik
+臼个¯·	ko1
+臼个·	ko
+臼个¯·比百ﾞ·此旡¯·	ko1 baak6 ce1
+臼个·比百·此旡·	ko baak ce
+臼个·白車	ko1 baak6 ce1
+臼个¯·丩丌¯·	ko1 gei1
+臼个·丩丌·	ko gei
+臼个·機	ko1 gei1
+臼个¯·天丐⁼·	ko1 toi4
+臼个·天丐·	ko toi
+臼个·台	ko1 toi4
+臼个¯·止工¯·	ko1 zung1
+臼个·止工·	ko zung
+臼个·鐘	ko1 zung1
+臼壬¯·	kem1
+臼壬·	kem
+臼壬¯·	kem1
+臼壬·	kem
+臼壬¯·々·大丌´·	kem1 kem1 dei2
+臼壬·々·大丌·	kem kem dei
+臼壬·臼壬·倛	kem1 kem1 dei2
+丩彡ﾞ·此冇¯·力子⁼·央乍⁼·	gaam6 cou1 li4 jaa4
+丩彡·此冇·力子·央乍·	gaam cou li jaa
+臼今ﾞ·此冇¯·力子⁼·央乍⁼·	kam6 cou1 li4 jaa4
+臼今·此冇·力子·央乍·	kam cou li jaa
+臼壬¯·大介´·	kem1 daai2
+臼壬·大介·	kem daai
+臼壬·帶	kem1 daai2
+臼壬¯·力千´·	kem1 lin2
+臼壬·力千·	kem lin
+臼壬·鍊	kem1 lin2
+臼壬¯·力千´·	kem1 lin2
+臼壬·力千·	kem lin
+臼壬·鏈	kem1 lin2
+臼円¯·厶乍´·	ken1 saa2
+臼円·厶乍·	ken saa
+臼円¯·厶乍⁼·	ken1 saa4
+臼円·厶乍·	ken saa
+臼夾¯·	kep1
+臼夾·	kep
+臼夾ﾞ·	kep6
+臼夾·	kep
+臼夾¯·文冇´·	kep1 mou2
+臼夾·文冇·	kep mou
+臼夾·帽	kep1 mou2
+臼夾¯·厶句´·	kep1 seoi2
+臼夾·厶句·	kep seoi
+臼夾·水	kep1 seoi2
+臼旡¯·乍`⁼·	ke1 aa4
+臼旡·乍`·	ke aa
+臼旡¯·禾子⁼·	ke1 wi4
+臼旡·禾子·	ke wi
+臼丌¯·厶子´·	kei1 si2
+臼丌·厶子·	kei si
+臼旡¯·厶仒⁼·	ke1 syu4
+臼旡·厶仒·	ke syu
+臼旡¯·厶冇⁼·	ke1 sou4
+臼旡·厶冇·	ke sou
+臼叐¯·天乍⁼·力乇⁼·	ket1 taa4 lok4
+臼叐·天乍·力乇·	ket taa lok
+臼叐¯·天乍⁼·力乇⁼·	ket1 taa4 lok4
+臼叐·天乍·力乇·	ket taa lok
+厶子¯·々·	si1 si1
+厶子·々·	si si
+厶子¯·々·天子¯·禾子¯·	si1 si1 ti1 wi1
+厶子·々·天子·禾子·	si si ti wi
+厶𥘅¯·	seot1
+厶𥘅·	seot
+此乍¯·此乍⁼·	caa1 caa4
+此乍·々·	caa caa
+此乇¯·夫云´·	cok1 fan2
+此乇·夫云·	cok fan
+此乇·粉	cok1 fan2
+此尺¯·力千ﾞ·止子ﾞ·	cek1 lin6 zi6
+此尺·力千·止子·	cek lin zi
+此乍¯·止子ﾞ·	caa1 zi6
+此乍·止子·	caa zi
+此頁¯·	cip1
+此頁·	cip
+此頁¯·止丁¯·	cip1 zing1
+此頁·止丁·	cip zing
+此頁·精	cip1 zing1
+此頁¯·央旡˝·	cip1 je5
+此頁·央旡·	cip je
+此頁·野	cip1 je5
+此尺¯·	cek1
+此尺·	cek
+此尺¯·央千¯·	cek1 jin1
+此尺·央千·	cek jin
+此尺¯·久`¯·	cek1 au1
+此尺·久`·	cek au
+此尺¯·亾乍˝·	cek1 haa5
+此尺·亾乍·	cek haa
+此尺·下	cek1 haa5
+此尺¯·亾乍˝·	cek1 haa5
+此尺·亾乍·	cek haa
+此尺·亾乍˝·	cek1 haa5
+臼壬¯·	kem1
+臼壬·	kem
+厶子¯·亾丁¯·	si1 hing1
+厶子·亾丁·	si hing
+此丁¯·	cing1
+此丁·	cing
+此子ﾞ·禾乍¯·禾乍⁼·	ci6 waa1 waa4
+此子·禾乍·々·	ci waa waa
+止子ﾞ·禾乍¯·禾乍⁼·	zi6 waa1 waa4
+止子·禾乍·々·	zi waa waa
+此乇`·	cok3
+此乇·	cok
+此乇`·此必¯·	cok3 cit1
+此乇·此必·	cok cit
+此乇`·央丈´·	cok3 joeng2
+此乇·央丈·	cok joeng
+此乇·樣	cok3 joeng2
+臼匃¯·	kot1
+臼匃·	kot
+此十ﾞ·央乜¯·厶正¯·	cap6 jat1 seng1
+此十·央乜·厶正·	cap jat seng
+此十·一聲	cap6 jat1 seng1
+此居´·	coe2
+此居·	coe
+厶子¯·介`¯·比子¯·	si1 aai1 bi1
+厶子·介`·比子·	si aai bi
+厶子¯·介`¯·大子¯·	si1 aai1 di1
+厶子·介`·大子·	si aai di
+此夕⁼·此压⁼·	cik4 caat4
+此夕·此压·	cik caat
+此夕⁼·此百⁼·	cik4 caak4
+此夕·此百·	cik caak
+厶子¯·夫冇´·	si1 fou2
+厶子·夫冇·	si fou
+臼壬¯·	kem1
+臼壬·	kem
+臼壬¯·比冇´·亾欠´·	kem1 bou2 him2
+臼壬·比冇·亾欠·	kem bou him
+臼壬·保險	kem1 bou2 him2
+臼壬¯·厶句`·	kem1 seoi3
+臼壬·厶句·	kem seoi
+臼壬·稅	kem1 seoi3
+臼夕¯·	kik1
+臼夕·	kik
+臼夕¯·央十ﾞ·亾句`·	kik1 jap6 heoi3
+臼夕·央十·亾句·	kik jap heoi
+臼夕·入去	kik1 jap6 heoi3
+臼乜ﾞ·力冇⁼·厶子⁼·	kat6 lou4 si4
+臼乜·力冇·厶子·	kat lou si
+厶子¯·了`¯·旡`¯·厶子⁼·	si1 eu1 e1 si4
+厶子·了`·旡`·厶子·	si eu e si
+此子¯·力云´·厶千`·	ci1 lan2 sin3
+此子·力云·厶千·	ci lan sin
+臼十¯·	kap1
+臼十·	kap
+厶子¯·壬`¯·	si1 em1
+厶子·壬`·	si em
+臼玉¯·	kuk1
+臼玉·	kuk
+臼今¯·	kam1
+臼今·	kam
+臼今ﾞ·文万¯·	kam6 maan1
+臼今·文万·	kam maan
+臼今¯·文円⁼·	kam1 men4
+臼今·文円·	kam men
+臼个¯·文`·文円⁼·	kom1 men4
+臼个·文`·文円·	kom men
+臼今¯·文云¯·	kam1 man1
+臼今·文云·	kam man
+臼干¯·	kon1
+臼干·	kon
+臼干¯·厶子´·	kon1 si2
+臼干·厶子·	kon si
+臼干¯·天尺⁼·	kon1 tek4
+臼干·天尺·	kon tek
+臼乎¯·	ku1
+臼乎·	ku
+丩乎¯·力丌¯·	gu1 lei1
+丩乎·力丌·	gu lei
+臼个¯·并`·	kop1
+臼个·并`·	kop
+此个¯·厶子⁼·并乜ﾞ·力兮¯·	co1 si4 pat6 lai1
+此个·厶子·并乜·力兮·	co si pat lai
+臼万¯·天乍´·	kaan1 taa2
+臼万·天乍·	kaan taa
+臼么¯·并干⁼·	kiu1 pon4
+臼么·并干·	kiu pon
+臼个¯·厶子⁼·	ko1 si4
+臼个·厶子·	ko si
+臼欠¯·	kim1
+臼欠·	kim
+臼么¯·	kiu1
+臼么·	kiu
+臼么¯·臼压¯·	kiu1 kaat1
+臼么·臼压·	kiu kaat
+臼么·咭	kiu1 kaat1
+臼么¯·臼压¯·	kiu1 kaat1
+臼么·臼压·	kiu kaat
+臼么·卡	kiu1 kaat1
+臼久¯·	kau1
+臼久·	kau
+臼乎¯·厶卂´·	ku1 seon2
+臼乎·厶卂·	ku seon
+臼乜¯·	kat1
+臼乜·	kat
+臼么¯·	kiu1
+臼么·	kiu
+臼么¯·々·	kiu1 kiu1
+臼么·々·	kiu kiu
+臼么¯·天子´·	kiu1 ti2
+臼么·天子·	kiu ti
+臼乜¯·天乍´·	kat1 taa2
+臼乜·天乍·	kat taa
+臼乜¯·厶千`·	kat1 sin3
+臼乜·厶千·	kat sin
+臼乜·線	kat1 sin3
+厶子¯·禾子¯·	si1 wi1
+厶子·禾子·	si wi
+厶介¯·比乍⁼·	saai1 baa4
+厶介·比乍·	saai baa
+厶子¯·大甲ﾞ·	si1 daap6
+厶子·大甲·	si daap
+厶子·疊	si1 daap6
+厶子¯·并本⁼·	si1 pun4
+厶子·并本·	si pun
+厶子·盤	si1 pun4
+厶子¯·爻万˝·	si1 ngaan5
+厶子·爻万·	si ngaan
+厶子·眼	si1 ngaan5
+大子¯·	di1
+大子·	di
+大乍¯·力丁´·	daa1 ling2
+大乍·力丁·	daa ling
+大丌¯·天乍⁼·	dei1 taa4
+大丌·天乍·	dei taa
+大丌¯·禾云¯·	dei1 wan1
+大丌·禾云·	dei wan
+大子¯·厶子¯·丩久´·	di1 si1 gau2
+大子·厶子·丩久·	di si gau
+大子¯·々·	di1 di1
+大子·々·	di di
+大必¯·々·	dit1 dit1
+大必·々·	dit dit
+大子´·	di2
+大子·	di
+大旡ﾞ·夫居¯·	de6 foe1
+大旡·夫居·	de foe
+大子ﾞ·	di6
+大子·	di
+大壬¯·	dem1
+大壬·	dem
+大壬¯·文冇´·	dem1 mou2
+大壬·文冇·	dem mou
+大旡¯·	de1
+大旡·	de
+大子⁼·々·大旡⁼·々·	di4 di4 de4 de4
+大子·々·大旡·々·	di di de de
+大必¯·厶子⁼·臼冇⁼·	dit1 si4 kou4
+大必·厶子·臼冇·	dit si kou
+大子¯·止丌¯·	di1 zei1
+大子·止丌·	di zei
+大子¯·円`¯·丌`¯·	di1 en1 ei1
+大子·円`·丌`·	di en ei
+大子¯·円`¯·丌`¯·丩彡`·大丁ﾞ·	di1 en1 ei1 gaam3 ding6
+大子·円`·丌`·丩彡·大丁·	di en ei gaam ding
+大子·円`·丌`·鑒定	di1 en1 ei1 gaam3 ding6
+大乎¯·	du1
+大乎·	du
+大生¯·	daang1
+大生·	daang
+大万¯·	daan1
+大万·	daan
+大生¯·力冇¯·	daang1 lou1
+大生·力冇·	daang lou
+大万¯·力冇¯·	daan1 lou1
+大万·力冇·	daan lou
+大万¯·丩丌¯·	daan1 gei1
+大万·丩丌·	daan gei
+大万·機	daan1 gei1
+大乎¯·央旡˝·	du1 je5
+大乎·央旡·	du je
+大乎·野	du1 je5
+大子¯·臼么¯·	di1 kiu1
+大子·臼么·	di kiu
+大子¯·天子¯·	di1 ti1
+大子·天子·	di ti
+大十¯·	dap1
+大十·	dap
+大乜¯·	dat1
+大乜·	dat
+大么¯·厶子⁼·	diu1 si4
+大么·厶子·	diu si
+大么·時	diu1 si4
+大今´·	dam2
+大今·	dam
+大今`·	dam3
+大今·	dam
+大今ﾞ·	dam6
+大今·	dam
+大今´·	dam2
+大今·	dam
+大今`·丩兮¯·	dam3 gai1
+大今·丩兮·	dam gai
+大今·雞	dam3 gai1
+大十¯·	dap1
+大十·	dap
+大甲`·	daap3
+大甲·	daap
+大十¯·此旡¯·	dap1 ce1
+大十·此旡·	dap ce
+大十·車	dap1 ce1
+大居ﾞ·	doe6
+大居·	doe
+大居ﾞ·并丌⁼·	doe6 pei4
+大居·并丌·	doe pei
+大居·皮	doe6 pei4
+大子¯·禾子¯·大子¯·	di1 wi1 di1
+大子·禾子·大子·	di wi di
+大子¯·此丈⁼·	di1 coeng4
+大子·此丈·	di coeng
+大子·場	di1 coeng4
+旡`¯·	e1
+旡`·	e
+旡`⁼·	e4
+旡`·	e
+央子ﾞ·臼干¯·	ji6 kon1
+央子·臼干·	ji kon
+壬`⁼·	em4
+壬`·	em
+央子¯·文了¯·	ji1 meu1
+央子·文了·	ji meu
+央子¯·文旡¯·力冇⁼·	ji1 me1 lou4
+央子·文旡·力冇·	ji me lou
+央子ﾞ·文冇¯·止子⁼·	ji6 mou1 zi4
+央子·文冇·止子·	ji mou zi
+子`ﾞ·文个¯·止子⁼·	i6 mo1 zi4
+子`·文个·止子·	i mo zi
+子`ﾞ·文冇¯·止子⁼·	i6 mou1 zi4
+子`·文冇·止子·	i mou zi
+央子ﾞ·文个¯·止子⁼·	ji6 mo1 zi4
+央子·文个·止子·	ji mo zi
+円`¯·止千´·	en1 zin2
+円`·止千·	en zin
+央子¯·冇`¯·	ji1 ou1
+央子·冇`·	ji ou
+旡`¯·	e1
+旡`·	e
+旡`ﾞ·	e6
+旡`·	e
+旡`⁼·	e4
+旡`·	e
+旡`¯·大冇¯·文冇˝·大仄¯·旡`¯·	e1 dou1 mou5 dak1 e1
+旡`·大冇·文冇·大仄·旡`·	e dou mou dak e
+旡`·都冇得·旡`·	e1 dou1 mou5 dak1 e1
+爻旡¯·大冇¯·文冇˝·大仄¯·爻旡¯·	nge1 dou1 mou5 dak1 nge1
+爻旡·大冇·文冇·大仄·爻旡·	nge dou mou dak nge
+爻旡·都冇得·爻旡·	nge1 dou1 mou5 dak1 nge1
+央子¯·禾子¯·丌`¯·丩丂¯·	ji1 wi1 ei1 gaau1
+央子·禾子·丌`·丩丂·	ji wi ei gaau
+央子·禾子·丌`·膠	ji1 wi1 ei1 gaau1
+央子¯·夫云⁼·	ji1 fan4
+央子·夫云·	ji fan
+子`¯·夫云⁼·	i1 fan4
+子`·夫云·	i fan
+夕`ﾞ·厶子⁼·	ik6 si4
+夕`·厶子·	ik si
+央子¯·此工¯·厶子¯·	ji1 cung1 si1
+央子·此工·厶子·	ji cung si
+央子·沖·厶子·	ji1 cung1 si1
+央子¯·止兮´·	ji1 zai2
+央子·止兮·	ji zai
+央子·仔	ji1 zai2
+夫丌¯·厶子´·	fei1 si2
+夫丌·厶子·	fei si
+夫尺¯·此尺¯·	fek1 cek1
+夫尺·此尺·	fek cek
+夫了¯·	feu1
+夫了·	feu
+夫夕¯·	fik1
+夫夕·	fik
+夫亙ﾞ·	fang6
+夫亙·	fang
+夫円¯·厶子´·	fen1 si2
+夫円·厶子·	fen si
+夫円¯·厶子´·	fen1 si2
+夫円·厶子·	fen si
+夫円·屎	fen1 si2
+夫尺¯·	fek1
+夫尺·	fek
+夫尺¯·厶子´·	fek1 si2
+夫尺·厶子·	fek si
+夫尺¯·厶子´·丩丌¯·	fek1 si2 gei1
+夫尺·厶子·丩丌·	fek si gei
+夫尺·厶子·機	fek1 si2 gei1
+夫円¯·	fen1
+夫円·	fen
+夫旡⁼·	fe4
+夫旡·	fe
+夫旡⁼·	fe4
+夫旡·	fe
+夫么¯·	fiu1
+夫么·	fiu
+夫叐ﾞ·	fet6
+夫叐·	fet
+旡`¯·夫乎⁼·旡`¯·夫乎⁼·	e1 fu4 e1 fu4
+旡`·夫乎·旡`·夫乎·	e fu e fu
+夫夕¯·丩乍⁼·	fik1 gaa4
+夫夕·丩乍·	fik gaa
+夫夕ﾞ·	fik6
+夫夕·	fik
+夫介¯·力冇´·	faai1 lou2
+夫介·力冇·	faai lou
+夫子⁼·力子¯·夫旡⁼·力旡⁼·	fi4 li1 fe4 le4
+夫子·力子·夫旡·力旡·	fi li fe le
+夫子⁼·力子¯·夫尺⁼·力尺⁼·	fi4 li1 fek4 lek4
+夫子·力子·夫尺·力尺·	fi li fek lek
+夫丁ﾞ·比乍`·	fing6 baa3
+夫丁·比乍·	fing baa
+夫丁·霸	fing6 baa3
+夫壬¯·	fem1
+夫壬·	fem
+夫必¯·	fit1
+夫必·	fit
+夫必¯·大冇`·力久ﾞ·央久´·	fit1 dou3 lau6 jau2
+夫必·大冇·力久·央久·	fit dou lau jau
+夫必·到漏油	fit1 dou3 lau6 jau2
+夫夕ﾞ·	fik6
+夫夕·	fik
+夫个¯·力冇⁼·	fo1 lou4
+夫个·力冇·	fo lou
+夫个ﾞ·	fo6
+夫个·	fo
+夫个¯·文`·	fom1
+夫个·文`·	fom
+夫久¯·	fau1
+夫久·	fau
+夫久¯·此𥘅¯·丩玉ﾞ·	fau1 ceot1 guk6
+夫久·此𥘅·丩玉·	fau ceot guk
+夫久·出局	fau1 ceot1 guk6
+夫子¯·厶介¯·厶子´·	fi1 saai1 si2
+夫子·厶介·厶子·	fi saai si
+夫子¯·厶介¯·厶子´·	fi1 saai1 si2
+夫子·厶介·厶子·	fi saai si
+夫子·曬士	fi1 saai1 si2
+夫円¯·	fen1
+夫円·	fen
+夫円¯·古个`·大乍´·比円¯·	fen1 gwo3 daa2 ben1
+夫円·古个·大乍·比円·	fen gwo daa ben
+夫円·過打·比円·	fen1 gwo3 daa2 ben1
+夫円¯·古个`·丩甲`·比円¯·	fen1 gwo3 gaap3 ben1
+夫円·古个·丩甲·比円·	fen gwo gaap ben
+夫円·過夾·比円·	fen1 gwo3 gaap3 ben1
+夫乎`·	fu3
+夫乎·	fu
+夫云¯·厶卂⁼·	fan1 seon4
+夫云·厶卂·	fan seon
+夫亙¯·厶卂⁼·	fang1 seon4
+夫亙·厶卂·	fang seon
+夫么¯·厶子´·	fiu1 si2
+夫么·厶子·	fiu si
+丩尺¯·	gek1
+丩尺·	gek
+丩壬¯·	gem1
+丩壬·	gem
+丩夾¯·	gep1
+丩夾·	gep
+丩十¯·	gap1
+丩十·	gap
+丩夾⁼·丩夾´·厶正¯·	gep4 gep2 seng1
+丩夾·々·厶正·	gep gep seng
+丩夾·丩夾·聲	gep4 gep2 seng1
+丩旡¯·厶子´·	ge1 si2
+丩旡·厶子·	ge si
+丩旡¯·厶子´·力冇⁼·	ge1 si2 lou4
+丩旡·厶子·力冇·	ge si lou
+丩旡·爐	ge1 si2 lou4
+丩夕¯·	gik1
+丩夕·	gik
+丩旡`·	ge3
+丩旡·	ge
+止了¯·	zeu1
+止了·	zeu
+止了¯·天久⁼·止勺´·	zeu1 tau4 zoek2
+止了·天久·止勺·	zeu tau zoek
+止了·頭雀	zeu1 tau4 zoek2
+止乇¯·丩乍´·	zok1 gaa2
+止乇·丩乍·	zok gaa
+丩叐¯·	get1
+丩叐·	get
+丩叐¯·大冇´·	get1 dou2
+丩叐·大冇·	get dou
+丩叐·到	get1 dou2
+止子¯·々·	zi1 zi1
+止子·々·	zi zi
+丩夕¯·	gik1
+丩夕·	gik
+丩頁¯·	gip1
+丩頁·	gip
+丩𥘅⁼·丩𥘅´·厶正¯·	geot4 geot2 seng1
+丩𥘅·々·厶正·	geot geot seng
+丩𥘅·丩𥘅·聲	geot4 geot2 seng1
+丩乎¯·丩冇⁼·	gu1 gou4
+丩乎·丩冇·	gu gou
+丩乎¯·丩冇⁼·比丌ﾞ·	gu1 gou4 bei6
+丩乎·丩冇·比丌·	gu gou bei
+丩乎·丩冇·鼻	gu1 gou4 bei6
+止子¯·并子¯·旡`¯·厶子⁼·	zi1 pi1 e1 si4
+止子·并子·旡`·厶子·	zi pi e si
+古壬¯·	gwem1
+古壬·	gwem
+古万¯·力工¯·	gwaan1 lung1
+古万·力工·	gwaan lung
+古生¯·力工¯·	gwaang1 lung1
+古生·力工·	gwaang lung
+古乎¯·并`·	gwup1
+古乎·并`·	gwup
+丩压¯·此久`·	gaat1 cau3
+丩压·此久·	gaat cau
+丩压·臭	gaat1 cau3
+丩十ﾞ·	gap6
+丩十·	gap
+丩居⁼·	goe4
+丩居·	goe
+止欠¯·夫王´·	zim1 fong2
+止欠·夫王·	zim fong
+止欠·房	zim1 fong2
+止子¯·大欠´·	zi1 dim2
+止子·大欠·	zi dim
+止子·點	zi1 dim2
+止子¯·央千⁼·夫乎`·	zi1 jin4 fu3
+止子·央千·夫乎·	zi jin fu
+止子·弦褲	zi1 jin4 fu3
+亾尺¯·	hek1
+亾尺·	hek
+亾尺¯·臼乍´·	hek1 kaa2
+亾尺·臼乍·	hek kaa
+亾旡`·	he3
+亾旡·	he
+亾个¯·	ho1
+亾个·	ho
+亾壬¯·	hem1
+亾壬·	hem
+亾正¯·丩丌¯·	heng1 gei1
+亾正·丩丌·	heng gei
+亾正·機	heng1 gei1
+亾夾¯·并子´·	hep1 pi2
+亾夾·并子·	hep pi
+亾夾¯·𠄡⁼·亾夾¯·并子´·乍``·	hep1 m4 hep1 pi2 aa3
+亾夾·𠄡·亾夾·并子·乍`·	hep m hep pi aa
+亾夾·𠄡·亾夾·并子·乍``·	hep1 m4 hep1 pi2 aa3
+亾压¯·大子¯·	haat1 di1
+亾压·大子·	haat di
+亾丌¯·天乍⁼·	hei1 taa4
+亾丌·天乍·	hei taa
+亾旡`·	he3
+亾旡·	he
+亾旡`·	he3
+亾旡·	he
+亾子⁼·亾子¯·亾居⁼·々·	hi4 hi1 hoe4 hoe4
+亾子·々·亾居·々·	hi hi hoe hoe
+亾子¯·々·	hi1 hi1
+亾子·々·	hi hi
+亾乍¯·力冇`·	haa1 lou3
+亾乍·力冇·	haa lou
+亾乍¯·力冇´·	haa1 lou2
+亾乍·力冇·	haa lou
+亾介¯·	haai1
+亾介·	haai
+亾介¯·夫介¯·	haai1 faai1
+亾介·夫介·	haai faai
+亾介¯·	haai1
+亾介·	haai
+亾介¯·力兮¯·	haai1 lai1
+亾介·力兮·	haai lai
+亾介¯·天子¯·	haai1 ti1
+亾介·天子·	haai ti
+亾介¯·天尺¯·	haai1 tek1
+亾介·天尺·	haai tek
+亾介¯·大介ﾞ·止个´·	haai1 daai6 zo2
+亾介·大介·止个·	haai daai zo
+亾介·大徂	haai1 daai6 zo2
+亾介¯·臼乍¯·厶子´·	haai1 kaa1 si2
+亾介·臼乍·厶子·	haai kaa si
+亾介·卡士	haai1 kaa1 si2
+亾介¯·々·	haai1 haai1
+亾介·々·	haai haai
+亾千¯·厶子´·	hin1 si2
+亾千·厶子·	hin si
+亾必¯·	hit1
+亾必·	hit
+亾乎¯·大子´·	hu1 di2
+亾乎·大子·	hu di
+亾久¯·厶子´·	hau1 si2
+亾久·厶子·	hau si
+亾今⁼·亾今´·厶正¯·	ham4 ham2 seng1
+亾今·々·厶正·	ham ham seng
+亾今·亾今·聲	ham4 ham2 seng1
+亾居⁼·	hoe4
+亾居·	hoe
+亾𥘅¯·	heot1
+亾𥘅·	heot
+丌`¯·此仒`·丩乎´·	ei1 cyu3 gu2
+丌`·此仒·丩乎·	ei cyu gu
+丌`·股	ei1 cyu3 gu2
+丌`¯·此仒`·文万ﾞ·	ei1 cyu3 maan6
+丌`·此仒·文万·	ei cyu maan
+丌`·漫	ei1 cyu3 maan6
+央必¯·此子¯·比万¯·	jit1 ci1 baan1
+央必·此子·比万·	jit ci baan
+必`¯·此子¯·比万¯·	it1 ci1 baan1
+必`·此子·比万·	it ci baan
+央必¯·止子¯·比万¯·	jit1 zi1 baan1
+央必·止子·比万·	jit zi baan
+介`¯·臼干´·	aai1 kon2
+介`·臼干·	aai kon
+介`¯·大子¯·	aai1 di1
+介`·大子·	aai di
+介`¯·大子¯·々·	aai1 di1 di1
+介`·大子·々·	aai di di
+介`ﾞ·大子¯·央乍⁼·	aai6 di1 jaa4
+介`·大子·央乍·	aai di jaa
+介`ﾞ·大子¯·乍`⁼·	aai6 di1 aa4
+介`·大子·乍`·	aai di aa
+介`¯·々·	aai1 aai1
+介`·々·	aai aai
+千`¯·	in1
+千`·	in
+央千¯·	jin1
+央千·	jin
+千`¯·此仒⁼·	in1 cyu4
+千`·此仒·	in cyu
+千`¯·此乍¯·止子ﾞ·	in1 caa1 zi6
+千`·此乍·止子·	in caa zi
+千`¯·天丈´·	in1 toeng2
+千`·天丈·	in toeng
+央千¯·天丈´·	jin1 toeng2
+央千·天丈·	jin toeng
+介`¯·并子¯·	aai1 pi1
+介`·并子·	aai pi
+介`¯·臼么¯·	aai1 kiu1
+介`·臼么·	aai kiu
+介`¯·臼么¯·天兮⁼·	aai1 kiu1 tai4
+介`·臼么·天兮·	aai kiu tai
+介`·臼么·題	aai1 kiu1 tai4
+央子ﾞ·厶冇¯·厶冇⁼·	ji6 sou1 sou4
+央子·厶冇·々·	ji sou sou
+介`¯·天子¯·	aai1 ti1
+介`·天子·	aai ti
+介`¯·天子¯·丩久´·	aai1 ti1 gau2
+介`·天子·丩久·	aai ti gau
+介`·天子·狗	aai1 ti1 gau2
+介`¯·丩兮¯·比冇´·	aai1 gai1 bou2
+介`·丩兮·比冇·	aai gai bou
+介`·雞寶	aai1 gai1 bou2
+止丌¯·	zei1
+止丌·	zei
+止尺¯·臼必ﾞ·	zek1 kit6
+止尺·臼必·	zek kit
+止尺¯·臼叐ﾞ·	zek1 ket6
+止尺·臼叐·	zek ket
+止壬¯·	zem1
+止壬·	zem
+止壬¯·央旡˝·	zem1 je5
+止壬·央旡·	zem je
+止壬·野	zem1 je5
+止乍¯·	zaa1
+止乍·	zaa
+止頁¯·止兮´·	zip1 zai2
+止頁·止兮·	zip zai
+止頁·仔	zip1 zai2
+止居¯·	zoe1
+止居·	zoe
+止居⁼·止居¯·	zoe4 zoe1
+止居·々·	zoe zoe
+止居¯·々·	zoe1 zoe1
+止居·々·	zoe zoe
+止居¯·止仒ﾞ·	zoe1 zyu6
+止居·止仒·	zoe zyu
+止居·住	zoe1 zyu6
+止尺¯·厶冇⁼·	zek1 sou4
+止尺·厶冇·	zek sou
+止頁⁼·	zip4
+止頁·	zip
+止丌¯·々·	zei1 zei1
+止丌·々·	zei zei
+止丐¯·	zoi1
+止丐·	zoi
+止王¯·	zong1
+止王·	zong
+止玉¯·臼乍´·	zuk1 kaa2
+止玉·臼乍·	zuk kaa
+止乎¯·	zu1
+止乎·	zu
+止乎¯·并乜ﾞ·厶子⁼·	zu1 pat6 si4
+止乎·并乜·厶子·	zu pat si
+止丌¯·天冇⁼·	zei1 tou4
+止丌·天冇·	zei tou
+止丌·圖	zei1 tou4
+臼丌¯·	kei1
+臼丌·	kei
+臼介¯·	kaai1
+臼介·	kaai
+臼介¯·止子´·	kaai1 zi2
+臼介·止子·	kaai zi
+臼介·子	kaai1 zi2
+臼丌¯·比子¯·	kei1 bi1
+臼丌·比子·	kei bi
+臼丌¯·臼乍¯·	kei1 kaa1
+臼丌·臼乍·	kei kaa
+臼旡¯·	ke1
+臼旡·	ke
+臼頁¯·	kip1
+臼頁·	kip
+臼頁¯·并乍´·	kip1 paa2
+臼頁·并乍·	kip paa
+臼頁¯·止仒ﾞ·	kip1 zyu6
+臼頁·止仒·	kip zyu
+臼頁·住	kip1 zyu6
+臼了⁼·力了¯·	keu4 leu1
+臼了·力了·	keu leu
+臼壬⁼·	kem4
+臼壬·	kem
+臼壬˝·	kem5
+臼壬·	kem
+臼壬¯·々·大丌´·	kem1 kem1 dei2
+臼壬·々·大丌·	kem kem dei
+臼壬·臼壬·倛	kem1 kem1 dei2
+臼正⁼·	keng4
+臼正·	keng
+臼么¯·力乍´·	kiu1 laa2
+臼么·力乍·	kiu laa
+臼么¯·力乍⁼·	kiu1 laa4
+臼么·力乍·	kiu laa
+臼子¯·力冇´·	ki1 lou2
+臼子·力冇·	ki lou
+臼丌¯·力冇´·	kei1 lou2
+臼丌·力冇·	kei lou
+臼丁¯·	king1
+臼丁·	king
+臼丌¯·冇`¯·	kei1 ou1
+臼丌·冇`·	kei ou
+臼丌¯·冇`¯·了`¯·	kei1 ou1 eu1
+臼丌·冇`·了`·	kei ou eu
+臼丌¯·比乍¯·	kei1 baa1
+臼丌·比乍·	kei baa
+臼丌·巴	kei1 baa1
+臼丌¯·此丈⁼·	kei1 coeng4
+臼丌·此丈·	kei coeng
+臼丌·場	kei1 coeng4
+臼丌¯·夫王´·	kei1 fong2
+臼丌·夫王·	kei fong
+臼丌·房	kei1 fong2
+臼丌¯·夫云´·	kei1 fan2
+臼丌·夫云·	kei fan
+臼丌·粉	kei1 fan2
+臼丌¯·丩个¯·	kei1 go1
+臼丌·丩个·	kei go
+臼丌·歌	kei1 go1
+臼丌¯·丩今¯·	kei1 gam1
+臼丌·丩今·	kei gam
+臼丌·金	kei1 gam1
+臼旡¯·丩今¯·	ke1 gam1
+臼旡·丩今·	ke gam
+臼旡·金	ke1 gam1
+臼丌¯·亾百`·	kei1 haak3
+臼丌·亾百·	kei haak
+臼丌·客	kei1 haak3
+臼丌¯·厶仒¯·	kei1 syu1
+臼丌·厶仒·	kei syu
+臼丌·書	kei1 syu1
+臼丌¯·天乍¯·文丁ﾞ·	kei1 taa1 ming6
+臼丌·天乍·文丁·	kei taa ming
+臼丌·他命	kei1 taa1 ming6
+臼丌¯·压``·	kei1 aat3
+臼丌·压`·	kei aat
+臼丌·壓	kei1 aat3
+臼丌¯·止兮´·	kei1 zai2
+臼丌·止兮·	kei zai
+臼丌·仔	kei1 zai2
+了`¯·	eu1
+了`·	eu
+力夾¯·	lep1
+力夾·	lep
+力丌¯·比冇´·	lei1 bou2
+力丌·比冇·	lei bou
+力尺¯·丩丌¯·	lek1 gei1
+力尺·丩丌·	lek gei
+力尺·機	lek1 gei1
+力夕¯·丩丌¯·	lik1 gei1
+力夕·丩丌·	lik gei
+力夕·機	lik1 gei1
+力介˝·々·亾万⁼·	laai5 laai5 haan4
+力介·々·亾万·	laai laai haan
+力介·力介·閒	laai5 laai5 haan4
+力円¯·厶千`·	len1 sin3
+力円·厶千·	len sin
+力円·線	len1 sin3
+力丌¯·厶乍´·	lei1 saa2
+力丌·厶乍·	lei saa
+力乍ﾞ·厶乜ﾞ·大丌¯·	laa6 sat6 dei1
+力乍·厶乜·大丌·	laa sat dei
+力压ﾞ·天丌¯·	laat6 tei1
+力压·天丌·	laat tei
+力乜ﾞ·天丌¯·	lat6 tei1
+力乜·天丌·	lat tei
+力旡¯·	le1
+力旡·	le
+力夕¯·丩丁⁼·	lik1 ging4
+力夕·丩丁·	lik ging
+力旡¯·丩冇⁼·	le1 gou4
+力旡·丩冇·	le gou
+力尺¯·丩冇⁼·	lek1 gou4
+力尺·丩冇·	lek gou
+力壬´·	lem2
+力壬·	lem
+力旡¯·厶子⁼·	le1 si4
+力旡·厶子·	le si
+力旡¯·夫冇´·	le1 fou2
+力旡·夫冇·	le fou
+力介¯·厶云´·	laai1 san2
+力介·厶云·	laai san
+力兮¯·	lai1
+力兮·	lai
+力兮¯·臼子´·	lai1 ki2
+力兮·臼子·	lai ki
+力欠¯·	lim1
+力欠·	lim
+力欠¯·文必⁼·	lim1 mit4
+力欠·文必·	lim mit
+力千¯·	lin1
+力千·	lin
+力千¯·天久⁼·	lin1 tau4
+力千·天久·	lin tau
+力千·頭	lin1 tau4
+力介¯·	laai1
+力介·	laai
+力久⁼·文丁⁼·	lau4 ming4
+力久·文丁·	lau ming
+力冇¯·	lou1
+力冇·	lou
+力王¯·大子¯·	long1 di1
+力王·大子·	long di
+力玉¯·	luk1
+力玉·	luk
+力乎¯·夫乍´·	lu1 faa2
+力乎·夫乍·	lu faa
+力乎`·	lu3
+力乎·	lu
+力今¯·厶今¯·	lam1 sam1
+力今·厶今·	lam sam
+力卂¯·	leon1
+力卂·	leon
+力云¯·此仒´·	lan1 cyu2
+力云·此仒·	lan cyu
+力云¯·此仒⁼·	lan1 cyu4
+力云·此仒·	lan cyu
+壬`¯·	em1
+壬`·	em
+文必¯·	mit1
+文必·	mit
+文叐¯·止兮´·	met1 zai2
+文叐·止兮·	met zai
+文叐·仔	met1 zai2
+文円¯·	men1
+文円·	men
+文百¯·	maak1
+文百·	maak
+文百¯·此𥘅¯·丩介¯·	maak1 ceot1 gaai1
+文百·此𥘅·丩介·	maak ceot gaai
+文百·出街	maak1 ceot1 gaai1
+文百¯·大兮¯·	maak1 dai1
+文百·大兮·	maak dai
+文百·低	maak1 dai1
+文百¯·丩个¯·力久¯·	maak1 go1 lau1
+文百·丩个·力久·	maak go lau
+文百·哥褸	maak1 go1 lau1
+文百¯·厶乜ﾞ·	maak1 sat6
+文百·厶乜·	maak sat
+文百·實	maak1 sat6
+文百¯·止仒ﾞ·	maak1 zyu6
+文百·止仒·	maak zyu
+文百·住	maak1 zyu6
+文叐¯·厶子´·	met1 si2
+文叐·厶子·	met si
+文尺¯·	mek1
+文尺·	mek
+文夾¯·	mep1
+文夾·	mep
+壬`¯·比子¯·丌`¯·	em1 bi1 ei1
+壬`·比子·丌`·	em bi ei
+文必¯·	mit1
+文必·	mit
+文子¯·文冇´·	mi1 mou2
+文子·文冇·	mi mou
+文円¯·乃么´·	men1 niu2
+文円·乃么·	men niu
+文尺¯·	mek1
+文尺·	mek
+文夾¯·	mep1
+文夾·	mep
+文介¯·	maai1
+文介·	maai
+文必¯·厶子⁼·	mit1 si4
+文必·厶子·	mit si
+文子¯·厶子⁼·	mi1 si4
+文子·厶子·	mi si
+文必¯·厶子⁼·	mit1 si4
+文必·厶子·	mit si
+壬`¯·臼丌¯·	em1 kei1
+壬`·臼丌·	em kei
+壬`¯·臼丌¯·此旡¯·	em1 kei1 ce1
+壬`·臼丌·此旡·	em kei ce
+壬`·車	em1 kei1 ce1
+壬`¯·臼丌¯·文会¯·	em1 kei1 mui1
+壬`·臼丌·文会·	em kei mui
+壬`·妹	em1 kei1 mui1
+壬`¯·臼丌¯·文正´·	em1 kei1 meng2
+壬`·臼丌·文正·	em kei meng
+壬`·名	em1 kei1 meng2
+壬`¯·臼丌¯·天久⁼·	em1 kei1 tau4
+壬`·臼丌·天久·	em kei tau
+壬`·頭	em1 kei1 tau4
+壬`¯·臼丌¯·止兮´·	em1 kei1 zai2
+壬`·臼丌·止兮·	em kei zai
+壬`·仔	em1 kei1 zai2
+文么¯·	miu1
+文么·	miu
+文乇¯·臼乍⁼·	mok1 kaa4
+文乇·臼乍·	mok kaa
+文乇¯·	mok1
+文乇·	mok
+文个¯·大冇⁼·	mo1 dou4
+文个·大冇·	mo dou
+文冇¯·大壬⁼·	mou1 dem4
+文冇·大壬·	mou dem
+文冇¯·力乍`·文冇¯·力乍`·	mou1 laa3 mou1 laa3
+文冇·力乍·文冇·力乍·	mou laa mou laa
+文冇¯·力乍¯·文冇¯·力乍⁼·	mou1 laa1 mou1 laa4
+文冇·力乍·文冇·力乍·	mou laa mou laa
+文干¯·	mon1
+文干·	mon
+文干¯·天頁`·	mon1 tip3
+文干·天頁·	mon tip
+文干·貼	mon1 tip3
+文末¯·	mut1
+文末·	mut
+文久¯·厶子´·	mau1 si2
+文久·厶子·	mau si
+文丂¯·厶子´·	maau1 si2
+文丂·厶子·	maau si
+壬`¯·并子¯·夫子¯·	em1 pi1 fi1
+壬`·并子·夫子·	em pi fi
+壬`¯·并子¯·厶彡¯·	em1 pi1 saam1
+壬`·并子·厶彡·	em pi saam
+文今¯·々·	mam1 mam1
+文今·々·	mam mam
+壬`¯·禾子¯·	em1 wi1
+壬`·禾子·	em wi
+壬`¯·大冇`·	em1 dou3
+壬`·大冇·	em dou
+壬`·到	em1 dou3
+壬`¯·丩丌`·	em1 gei3
+壬`·丩丌·	em gei
+壬`·記	em1 gei3
+壬`¯·丩云¯·	em1 gan1
+壬`·丩云·	em gan
+壬`·巾	em1 gan1
+壬`¯·天工`·	em1 tung3
+壬`·天工·	em tung
+壬`·痛	em1 tung3
+壬`¯·止子ﾞ·爻百`·	em1 zi6 ngaak3
+壬`·止子·爻百·	em zi ngaak
+壬`·字額	em1 zi6 ngaak3
+円`¯·	en1
+円`·	en
+乃丌¯·夫子´·	nei1 fi2
+乃丌·夫子·	nei fi
+円`¯·止子¯·	en1 zi1
+円`·止子·	en zi
+爻亙⁼·爻亙´·厶正¯·	ngang4 ngang2 seng1
+爻亙·々·厶正·	ngang ngang seng
+爻亙·爻亙·聲	ngang4 ngang2 seng1
+爻尺¯·々·	ngek1 ngek1
+爻尺·々·	ngek ngek
+爻乇¯·々·此句`·	ngok1 ngok1 ceoi3
+爻乇·々·此句·	ngok ngok ceoi
+爻乇·爻乇·脆	ngok1 ngok1 ceoi3
+乃兮¯·臼壬⁼·	nai1 kem4
+乃兮·臼壬·	nai kem
+乃么`·	niu3
+乃么·	niu
+力今¯·比乍¯·禾云¯·	lam1 baa1 wan1
+力今·比乍·禾云·	lam baa wan
+乃玉¯·比玉¯·	nuk1 buk1
+乃玉·比玉·	nuk buk
+力玉¯·比玉¯·	luk1 buk1
+力玉·比玉·	luk buk
+円`¯·此旡¯·	en1 ce1
+円`·此旡·	en ce
+円`·車	en1 ce1
+円`¯·乃丐ﾞ·	en1 noi6
+円`·乃丐·	en noi
+円`·耐	en1 noi6
+円`¯·乃千⁼·	en1 nin4
+円`·乃千·	en nin
+円`·年	en1 nin4
+円`¯·厶千`·	en1 sin3
+円`·厶千·	en sin
+円`·線	en1 sin3
+冇`¯·臼壬¯·	ou1 kem1
+冇`·臼壬·	ou kem
+居`¯·	oe1
+居`·	oe
+冇`¯·央子¯·壬`¯·	ou1 ji1 em1
+冇`·央子·壬`·	ou ji em
+𥘅`⁼·	eot4
+𥘅`·	eot
+勺`⁼·	oek4
+勺`·	oek
+𥘅`ﾞ·	eot6
+𥘅`·	eot
+个`¯·夫乍⁼·	o1 faa4
+个`·夫乍·	o faa
+冇`¯·臼丌¯·	ou1 kei1
+冇`·臼丌·	ou kei
+冇`¯·臼丌¯·比亙¯·	ou1 kei1 bang1
+冇`·臼丌·比亙·	ou kei bang
+冇`·臼丌·繃	ou1 kei1 bang1
+冇`¯·臼丌¯·丩正`·	ou1 kei1 geng3
+冇`·臼丌·丩正·	ou kei geng
+冇`·臼丌·鏡	ou1 kei1 geng3
+冇`¯·旡`¯·力冇⁼·	ou1 e1 lou4
+冇`·旡`·力冇·	ou e lou
+冇`¯·了`¯·	ou1 eu1
+冇`·了`·	ou eu
+爻王ﾞ·丩久¯·	ngong6 gau1
+爻王·丩久·	ngong gau
+爻王ﾞ·丩久¯·々·	ngong6 gau1 gau1
+爻王·丩久·々·	ngong gau gau
+爻王ﾞ·丩久¯·止兮´·	ngong6 gau1 zai2
+爻王·丩久·止兮·	ngong gau zai
+爻王·丩久·仔	ngong6 gau1 zai2
+冇`¯·并子¯·	ou1 pi1
+冇`·并子·	ou pi
+冇`¯·并云⁼·	ou1 pan4
+冇`·并云·	ou pan
+乇`ﾞ·比乍¯·	ok6 baa1
+乇`·比乍·	ok baa
+冇`¯·天子¯·	ou1 ti1
+冇`·天子·	ou ti
+久`¯·	au1
+久`·	au
+久`¯·大丌¯·	au1 dei1
+久`·大丌·	au dei
+久`¯·大丌¯·	au1 dei1
+久`·大丌·	au dei
+久`¯·力叐⁼·	au1 let4
+久`·力叐·	au let
+冇`¯·夫乍⁼·	ou1 faa4
+冇`·夫乍·	ou faa
+冇`¯·夫乍⁼·丩丌¯·	ou1 faa4 gei1
+冇`·夫乍·丩丌·	ou faa gei
+冇`·夫乍·機	ou1 faa4 gei1
+冇`¯·丩丌`·	ou1 gei3
+冇`·丩丌·	ou gei
+冇`·記	ou1 gei3
+冇`¯·止句´·	ou1 zeoi2
+冇`·止句·	ou zeoi
+冇`·咀	ou1 zeoi2
+冇`¯·央丁⁼·天句´·	ou1 jing4 teoi2
+冇`·央丁·天句·	ou jing teoi
+冇`·型腿	ou1 jing4 teoi2
+冇`¯·止兮´·	ou1 zai2
+冇`·止兮·	ou zai
+冇`·仔	ou1 zai2
+冇`¯·止句´·	ou1 zeoi2
+冇`·止句·	ou zeoi
+冇`·嘴	ou1 zeoi2
+并子¯·	pi1
+并子·	pi
+并尺¯·	pek1
+并尺·	pek
+并叐¯·	pet1
+并叐·	pet
+并旡¯·	pe1
+并旡·	pe
+并円¯·	pen1
+并円·	pen
+并円¯·臼夕¯·	pen1 kik1
+并円·臼夕·	pen kik
+并円¯·此仒⁼·	pen1 cyu4
+并円·此仒·	pen cyu
+并丌¯·并乍⁼·	pei1 paa4
+并丌·并乍·	pei paa
+并乍ﾞ·臼乎¯·乍`⁼·	paa6 ku1 aa4
+并乍·臼乎·乍`·	paa ku aa
+并压¯·	paat1
+并压·	paat
+并压ﾞ·天必¯·	paat6 tit1
+并压·天必·	paat tit
+并压¯·乃乍⁼·	paat1 naa4
+并压·乃乍·	paat naa
+并压¯·天介¯·	paat1 taai1
+并压·天介·	paat taai
+并乍¯·天子⁼·	paa1 ti4
+并乍·天子·	paa ti
+并压¯·天子⁼·	paat1 ti4
+并压·天子·	paat ti
+并乍¯·厶子⁼·	paa1 si4
+并乍·厶子·	paa si
+并乍¯·厶子´·	paa1 si2
+并乍·厶子·	paa si
+并乍¯·厶子⁼·并匃¯·	paa1 si4 pot1
+并乍·厶子·并匃·	paa si pot
+并叐ﾞ·	pet6
+并叐·	pet
+并丌¯·厶卂⁼·	pei1 seon4
+并丌·厶卂·	pei seon
+并叐¯·々·	pet1 pet1
+并叐·々·	pet pet
+并子¯·厶子¯·	pi1 si1
+并子·厶子·	pi si
+并子¯·央子¯·	pi1 ji1
+并子·央子·	pi ji
+并叐¯·大冇⁼·	pet1 dou4
+并叐·大冇·	pet dou
+并旡¯·大冇⁼·	pe1 dou4
+并旡·大冇·	pe dou
+并乜ﾞ·厶円¯·	pat6 sen1
+并乜·厶円·	pat sen
+并居ﾞ·厶円¯·	poe6 sen1
+并居·厶円·	poe sen
+并叐¯·々·	pet1 pet1
+并叐·々·	pet pet
+并子¯·央子¯·夫乎`·	pi1 ji1 fu3
+并子·央子·夫乎·	pi ji fu
+并子·央子·褲	pi1 ji1 fu3
+并子¯·央子¯·厶彡¯·	pi1 ji1 saam1
+并子·央子·厶彡·	pi ji saam
+并子·央子·衫	pi1 ji1 saam1
+并子¯·央子¯·天王⁼·	pi1 ji1 tong4
+并子·央子·天王·	pi ji tong
+并子·央子·堂	pi1 ji1 tong4
+并子¯·止子¯·	pi1 zi1
+并子·止子·	pi zi
+并子¯·止仒¯·	pi1 zyu1
+并子·止仒·	pi zyu
+夫子¯·厶夕⁼·	fi1 sik4
+夫子·厶夕·	fi sik
+并子¯·丌`¯·此仒`·止夕ﾞ·	pi1 ei1 cyu3 zik6
+并子·丌`·此仒·止夕·	pi ei cyu zik
+并子·丌`·值	pi1 ei1 cyu3 zik6
+并介¯·	paai1
+并介·	paai
+并夕¯·十`¯·	pik1 ap1
+并夕·十`·	pik ap
+并丁¯·	ping1
+并丁·	ping
+并子¯·厶乍⁼·	pi1 saa4
+并子·厶乍·	pi saa
+并子¯·厶乍´·	pi1 saa2
+并子·厶乍·	pi saa
+并子¯·臼丌¯·	pi1 kei1
+并子·臼丌·	pi kei
+并乜ﾞ·力円¯·	pat6 len1
+并乜·力円·	pat len
+并子¯·壬`¯·	pi1 em1
+并子·壬`·	pi em
+并冇¯·	pou1
+并冇·	pou
+并干¯·	pon1
+并干·	pon
+并乇¯·	pok1
+并乇·	pok
+并冇¯·力冇´·	pou1 lou2
+并冇·力冇·	pou lou
+并乇¯·	pok1
+并乇·	pok
+并匃¯·	pot1
+并匃·	pot
+并冇¯·厶子´·	pou1 si2
+并冇·厶子·	pou si
+并冇¯·	pou1
+并冇·	pou
+并子¯·乍`¯·力冇⁼·	pi1 aa1 lou4
+并子·乍`·力冇·	pi aa lou
+并子¯·夫叐⁼·	pi1 fet4
+并子·夫叐·	pi fet
+并子¯·夫尺⁼·	pi1 fek4
+并子·夫尺·	pi fek
+并子ﾞ·夫居¯·	pi6 foe1
+并子·夫居·	pi foe
+并旡ﾞ·夫居¯·	pe6 foe1
+并旡·夫居·	pe foe
+并子ﾞ·厶円¯·	pi6 sen1
+并子·厶円·	pi sen
+并千¯·	pin1
+并千·	pin
+并千¯·天乍´·	pin1 taa2
+并千·天乍·	pin taa
+并冇¯·夫旡¯·厶乍⁼·	pou1 fe1 saa4
+并冇·夫旡·厶乍·	pou fe saa
+并冇¯·夫旡¯·厶乍´·	pou1 fe1 saa2
+并冇·夫旡·厶乍·	pou fe saa
+并冇¯·夫叐¯·厶乍⁼·	pou1 fet1 saa4
+并冇·夫叐·厶乍·	pou fet saa
+并冇¯·夫叐¯·厶乍´·	pou1 fet1 saa2
+并冇·夫叐·厶乍·	pou fet saa
+并冇¯·古壬⁼·	pou1 gwem4
+并冇·古壬·	pou gwem
+并个¯·止尺⁼·	po1 zek4
+并个·止尺·	po zek
+并冇ﾞ·止尺¯·天乍´·	pou6 zek1 taa2
+并冇·止尺·天乍·	pou zek taa
+并冇ﾞ·止尺¯·天乍⁼·	pou6 zek1 taa4
+并冇·止尺·天乍·	pou zek taa
+并冇ﾞ·文冇¯·	pou6 mou1
+并冇·文冇·	pou mou
+并冇ﾞ·并冇¯·厶冇⁼·	pou6 pou1 sou4
+并冇·々·厶冇·	pou pou sou
+厶介ﾞ·臼个¯·	saai6 ko1
+厶介·臼个·	saai ko
+并子¯·天子¯·比子¯·旡`¯·夫乎⁼·	pi1 ti1 bi1 e1 fu4
+并子·天子·比子·旡`·夫乎·	pi ti bi e fu
+并子¯·天子¯·止子¯·旡`¯·夫乎⁼·	pi1 ti1 zi1 e1 fu4
+并子·天子·止子·旡`·夫乎·	pi ti zi e fu
+并子¯·天子¯·央么¯·	pi1 ti1 jiu1
+并子·天子·央么·	pi ti jiu
+并十¯·	pap1
+并十·	pap
+并么¯·乍`⁼·	piu1 aa4
+并么·乍`·	piu aa
+并么¯·	piu1
+并么·	piu
+并乎¯·厶仒⁼·	pu1 syu4
+并乎·厶仒·	pu syu
+并乜¯·厶冇⁼·	pat1 sou4
+并乜·厶冇·	pat sou
+并乎⁼·乃子˝·乍``·文个¯·	pu4 ni5 aa3 mo1
+并乎·乃子·乍`·文个·	pu ni aa mo
+并乎·你·乍`·麼	pu4 ni5 aa3 mo1
+并子¯·文云⁼·	pi1 man4
+并子·文云·	pi man
+并子·民	pi1 man4
+并子¯·并介⁼·	pi1 paai4
+并子·并介·	pi paai
+并子·牌	pi1 paai4
+并子¯·天冇⁼·	pi1 tou4
+并子·天冇·	pi tou
+并子·圖	pi1 tou4
+并子¯·厶丈´·	pi1 soeng2
+并子·厶丈·	pi soeng
+并子·相	pi1 soeng2
+臼么¯·	kiu1
+臼么·	kiu
+臼么¯·厶子¯·	kiu1 si1
+臼么·厶子·	kiu si
+臼么¯·々·	kiu1 kiu1
+臼么·々·	kiu kiu
+臼么¯·丂`¯·臼玉¯·	kiu1 aau1 kuk1
+臼么·丂`·臼玉·	kiu aau kuk
+夸个¯·力子´·	kwo1 li2
+夸个·力子·	kwo li
+臼个¯·力子´·	ko1 li2
+臼个·力子·	ko li
+夸必¯·	kwit1
+夸必·	kwit
+夸子¯·止子⁼·	kwi1 zi4
+夸子·止子·	kwi zi
+臼冇¯·天乍´·	kou1 taa2
+臼冇·天乍·	kou taa
+臼么¯·比万´·	kiu1 baan2
+臼么·比万·	kiu baan
+臼么·版	kiu1 baan2
+丂`¯·	aau1
+丂`·	aau
+禾壬¯·	wem1
+禾壬·	wem
+禾子ﾞ·夫居¯·	wi6 foe1
+禾子·夫居·	wi foe
+禾冇¯·丩丌¯·	wou1 gei1
+禾冇·丩丌·	wou gei
+禾冇·機	wou1 gei1
+禾万¯·	waan1
+禾万·	waan
+禾丂¯·天乍´·	waau1 taa2
+禾丂·天乍·	waau taa
+厶乍⁼·	saa4
+厶乍·	saa
+厶百`·	saak3
+厶百·	saak
+厶了¯·厶子´·	seu1 si2
+厶了·厶子·	seu si
+厶丌¯·夫乎⁼·	sei1 fu4
+厶丌·夫乎·	sei fu
+厶夕¯·厶子ﾞ·夫工¯·	sik1 si6 fung1
+厶夕·厶子·夫工·	sik si fung
+厶夕¯·夫工¯·	sik1 fung1
+厶夕·夫工·	sik fung
+厶乍⁼·臼円¯·	saa4 ken1
+厶乍·臼円·	saa ken
+厶乍⁼·臼円¯·乃乍´·	saa4 ken1 naa2
+厶乍·臼円·乃乍·	saa ken naa
+厶介¯·央云⁼·厶子⁼·	saai1 jan4 si4
+厶介·央云·厶子·	saai jan si
+厶居¯·此仒⁼·	soe1 cyu4
+厶居·此仒·	soe cyu
+厶必¯·	sit1
+厶必·	sit
+厶了¯·	seu1
+厶了·	seu
+厶壬ﾞ·	sem6
+厶壬·	sem
+厶円¯·	sen1
+厶円·	sen
+厶円¯·厶子´·	sen1 si2
+厶円·厶子·	sen si
+厶居¯·	soe1
+厶居·	soe
+厶居¯·夫乍´·	soe1 faa2
+厶居·夫乍·	soe faa
+厶叐¯·	set1
+厶叐·	set
+厶叐¯·天久⁼·	set1 tau4
+厶叐·天久·	set tau
+厶叐·頭	set1 tau4
+厶旡¯·夫云´·	se1 fan2
+厶旡·夫云·	se fan
+厶旡¯·禾云´·	se1 wan2
+厶旡·禾云·	se wan
+厶居¯·乍`⁼·	soe1 aa4
+厶居·乍`·	soe aa
+厶甲¯·	saap1
+厶甲·	saap
+厶甲¯·厶丁´·	saap1 sing2
+厶甲·厶丁·	saap sing
+厶甲·醒	saap1 sing2
+厶子¯·夫乎⁼·	si1 fu4
+厶子·夫乎·	si fu
+厶匃¯·	sot1
+厶匃·	sot
+厶匃¯·々·大丌´·	sot1 sot1 dei2
+厶匃·々·大丌·	sot sot dei
+厶匃·厶匃·倛	sot1 sot1 dei2
+厶匃¯·止工´·止兮`·	sot1 zung2 zai3
+厶匃·止工·止兮·	sot zung zai
+厶匃·總掣	sot1 zung2 zai3
+厶匃¯·	sot1
+厶匃·	sot
+厶冇¯·	sou1
+厶冇·	sou
+厶冇¯·亾円¯·	sou1 hen1
+厶冇·亾円·	sou hen
+厶冇¯·夸个¯·力子´·	sou1 kwo1 li2
+厶冇·夸个·力子·	sou kwo li
+厶冇¯·臼个¯·力子´·	sou1 ko1 li2
+厶冇·臼个·力子·	sou ko li
+厶子⁼·力子¯·厶居⁼·力居⁼·	si4 li1 soe4 loe4
+厶子·力子·厶居·力居·	si li soe loe
+厶丁¯·丩冇⁼·	sing1 gou4
+厶丁·丩冇·	sing gou
+厶丁¯·并本´·	sing1 pun2
+厶丁·并本·	sing pun
+厶丁·盤	sing1 pun2
+厶居⁼·	soe4
+厶居·	soe
+旡`¯·厶子⁼·介`¯·旡`¯·厶子⁼·	e1 si4 aai1 e1 si4
+旡`·厶子·介`·旡`·厶子·	e si aai e si
+厶必¯·	sit1
+厶必·	sit
+厶兮¯·	sai1
+厶兮·	sai
+厶必¯·十`¯·	sit1 ap1
+厶必·十`·	sit ap
+厶介¯·厶子´·	saai1 si2
+厶介·厶子·	saai si
+厶子ﾞ·文个¯·并冇ﾞ·天丌¯·天冇⁼·	si6 mo1 pou6 tei1 tou4
+厶子·文个·并冇·天丌·天冇·	si mo pou tei tou
+厶子ﾞ·力玉¯·丩乍´·	si6 luk1 gaa2
+厶子·力玉·丩乍·	si luk gaa
+厶冇⁼·	sou4
+厶冇·	sou
+厶冇ﾞ·厶子ﾞ·	sou6 si6
+厶冇·厶子·	sou si
+厶冇¯·厶冇⁼·	sou1 sou4
+厶冇·々·	sou sou
+厶冇¯·力冇⁼·	sou1 lou4
+厶冇·力冇·	sou lou
+厶个¯·	so1
+厶个·	so
+厶个¯·力子⁼·	so1 li4
+厶个·力子·	so li
+厶个¯·禾子⁼·	so1 wi4
+厶个·禾子·	so wi
+厶个¯·力子⁼·	so1 li4
+厶个·力子·	so li
+厶个¯·力子⁼·力个¯·	so1 li4 lo1
+厶个·力子·力个·	so li lo
+厶个·力子·力个¯·	so1 li4 lo1
+厶冇¯·厶叐¯·	sou1 set1
+厶冇·厶叐·	sou set
+厶个¯·厶子´·	so1 si2
+厶个·厶子·	so si
+厶冇¯·夫云´·	sou1 fan2
+厶冇·夫云·	sou fan
+厶乍⁼·比乍¯·	saa4 baa1
+厶乍·比乍·	saa baa
+厶乍⁼·大丌¯·	saa4 dei1
+厶乍·大丌·	saa dei
+厶乍⁼·大么¯·比乜⁼·	saa4 diu1 bat4
+厶乍·大么·比乜·	saa diu bat
+厶子ﾞ·大么¯·比乜⁼·	si6 diu1 bat4
+厶子·大么·比乜·	si diu bat
+厶乍⁼·大介¯·央冇⁼·	saa4 daai1 jou4
+厶乍·大介·央冇·	saa daai jou
+厶十ﾞ·止兮´·	sap6 zai2
+厶十·止兮·	sap zai
+厶十·仔	sap6 zai2
+厶十ﾞ·并冇¯·厶子⁼·	sap6 pou1 si4
+厶十·并冇·厶子·	sap pou si
+厶乎¯·乍`⁼·	su1 aa4
+厶乎·乍`·	su aa
+厶乜ﾞ·并介¯·厶子⁼·	sat6 paai1 si4
+厶乜·并介·厶子·	sat paai si
+厶居ﾞ·夫丌¯·	soe6 fei1
+厶居·夫丌·	soe fei
+厶居¯·夫丌⁼·	soe1 fei4
+厶居·夫丌·	soe fei
+厶子ﾞ·禾必¯·	si6 wit1
+厶子·禾必·	si wit
+厶子¯·力子⁼·比乍⁼·	si1 li4 baa4
+厶子·力子·比乍·	si li baa
+天子¯·	ti1
+天子·	ti
+天子¯·丌`¯·	ti1 ei1
+天子·丌`·	ti ei
+天夾¯·	tep1
+天夾·	tep
+天夾¯·力叐⁼·	tep1 let4
+天夾·力叐·	tep let
+天夾¯·力乜⁼·	tep1 lat4
+天夾·力乜·	tep lat
+天尺¯·	tek1
+天尺·	tek
+天夕¯·	tik1
+天夕·	tik
+天夕¯·央旡˝·	tik1 je5
+天夕·央旡·	tik je
+天夕·野	tik1 je5
+天乇¯·	tok1
+天乇·	tok
+天乇¯·大仄¯·	tok1 dak1
+天乇·大仄·	tok dak
+天乇·得	tok1 dak1
+天乍¯·丩叐⁼·	taa1 get4
+天乍·丩叐·	taa get
+天丌¯·厶子´·	tei1 si2
+天丌·厶子·	tei si
+天子¯·比子¯·	ti1 bi1
+天子·比子·	ti bi
+天子¯·比尺¯·	ti1 bek1
+天子·比尺·	ti bek
+天子¯·	ti1
+天子·	ti
+天欠¯·	tim1
+天欠·	tim
+天子¯·	ti1
+天子·	ti
+天壬ﾞ·	tem6
+天壬·	tem
+天壬¯·	tem1
+天壬·	tem
+天叐¯·	tet1
+天叐·	tet
+夫円¯·臼么⁼·	fen1 kiu4
+夫円·臼么·	fen kiu
+天子¯·厶乎⁼·	ti1 su4
+天子·厶乎·	ti su
+天介¯·天冇⁼·	taai1 tou4
+天介·天冇·	taai tou
+天兮¯·天冇⁼·	tai1 tou4
+天兮·天冇·	tai tou
+天丐¯·力叐⁼·	toi1 let4
+天丐·力叐·	toi let
+天个¯·力叐⁼·	to1 let4
+天个·力叐·	to let
+天个¯·并`·	top1
+天个·并`·	top
+天冇¯·天冇⁼·	tou1 tou4
+天冇·々·	tou tou
+天乍¯·此仒ﾞ·禾末¯·	taa1 cyu6 wut1
+天乍·此仒·禾末·	taa cyu wut
+此冇¯·	cou1
+此冇·	cou
+天本¯·	tun1
+天本·	tun
+大十¯·此旡¯·	dap1 ce1
+大十·此旡·	dap ce
+大十·車	dap1 ce1
+天丈¯·	toeng1
+天丈·	toeng
+天么¯·天乍´·	tiu1 taa2
+天么·天乍·	tiu taa
+天么¯·天乍⁼·	tiu1 taa4
+天么·天乍·	tiu taa
+天么ﾞ·天个¯·	tiu6 to1
+天么·天个·	tiu to
+天子¯·此尺`·	ti1 cek3
+天子·此尺·	ti cek
+天子·尺	ti1 cek3
+天子¯·古乜¯·	ti1 gwat1
+天子·古乜·	ti gwat
+天子·骨	ti1 gwat1
+天子¯·古乜¯·并乍´·	ti1 gwat1 paa2
+天子·古乜·并乍·	ti gwat paa
+天子·骨扒	ti1 gwat1 paa2
+天子¯·古乜¯·爻久⁼·并乍´·	ti1 gwat1 ngau4 paa2
+天子·古乜·爻久·并乍·	ti gwat ngau paa
+天子·骨牛扒	ti1 gwat1 ngau4 paa2
+天子¯·厶𥘅¯·	ti1 seot1
+天子·厶𥘅·	ti seot
+天子·裇	ti1 seot1
+天子¯·厶𥘅¯·	ti1 seot1
+天子·厶𥘅·	ti seot
+天子·恤	ti1 seot1
+天子¯·止子ﾞ·夫乎`·	ti1 zi6 fu3
+天子·止子·夫乎·	ti zi fu
+天子·字褲	ti1 zi6 fu3
+天子¯·止子ﾞ·止丈`·	ti1 zi6 zoeng3
+天子·止子·止丈·	ti zi zoeng
+天子·字帳	ti1 zi6 zoeng3
+央乎¯·旡`¯·夫乎⁼·冇`¯·	ju1 e1 fu4 ou1
+央乎·旡`·夫乎·冇`·	ju e fu ou
+央乎¯·旡`¯·夫冇¯·	ju1 e1 fou1
+央乎·旡`·夫冇·	ju e fou
+云``·	an3
+云`·	an
+云`¯·臼冇⁼·	an1 kou4
+云`·臼冇·	an kou
+亙`¯·臼冇⁼·	ang1 kou4
+亙`·臼冇·	ang kou
+云`¯·大乍⁼·	an1 daa4
+云`·大乍·	an daa
+云`¯·大乍´·	an1 daa2
+云`·大乍·	an daa
+央乎¯·円`¯·冇`¯·	ju1 en1 ou1
+央乎·円`·冇`·	ju en ou
+央乎¯·乃冇´·	ju1 nou2
+央乎·乃冇·	ju nou
+十`¯·	ap1
+十`·	ap
+十`¯·大丌¯·	ap1 dei1
+十`·大丌·	ap dei
+十`¯·力冇¯·	ap1 lou1
+十`·力冇·	ap lou
+央乎¯·旡`¯·厶子⁼·比子¯·	ju1 e1 si4 bi1
+央乎·旡`·厶子·比子·	ju e si bi
+央乎¯·旡`¯·厶子⁼·比子¯·丩丌`·央夕¯·并生˝·	ju1 e1 si4 bi1 gei3 jik1 paang5
+央乎·旡`·厶子·比子·丩丌·央夕·并生·	ju e si bi gei jik paang
+央乎·旡`·厶子·記憶棒	ju1 e1 si4 bi1 gei3 jik1 paang5
+央乎¯·旡`¯·厶子⁼·比子¯·厶久´·止子´·	ju1 e1 si4 bi1 sau2 zi2
+央乎·旡`·厶子·比子·厶久·止子·	ju e si bi sau zi
+央乎·旡`·厶子·手指	ju1 e1 si4 bi1 sau2 zi2
+央乎¯·并本´·	ju1 pun2
+央乎·并本·	ju pun
+央乎·盤	ju1 pun2
+央乎¯·大乜ﾞ·乃丐ﾞ·夫乎`·	ju1 dat6 noi6 fu3
+央乎·大乜·乃丐·夫乎·	ju dat noi fu
+央乎·凸內褲	ju1 dat6 noi6 fu3
+央乎¯·央丁⁼·止元`·禾万¯·	ju1 jing4 zyun3 waan1
+央乎·央丁·止元·禾万·	ju jing zyun waan
+央乎·形轉彎	ju1 jing4 zyun3 waan1
+央乎¯·央丁⁼·止今´·	ju1 jing4 zam2
+央乎·央丁·止今·	ju jing zam
+央乎·型枕	ju1 jing4 zam2
+禾円¯·	wen1
+禾円·	wen
+禾円¯·止兮´·	wen1 zai2
+禾円·止兮·	wen zai
+禾円·仔	wen1 zai2
+禾正¯·止兮´·	weng1 zai2
+禾正·止兮·	weng zai
+禾正·仔	weng1 zai2
+禾子¯·厶子¯·大子¯·	wi1 si1 di1
+禾子·厶子·大子·	wi si di
+夫冇ﾞ·臼夾¯·	fou6 kep1
+夫冇·臼夾·	fou kep
+禾玉¯·臼乍´·	wuk1 kaa2
+禾玉·臼乍·	wuk kaa
+禾玉¯·	wuk1
+禾玉·	wuk
+禾子¯·丂`¯·	wi1 aau1
+禾子·丂`·	wi aau
+禾子¯·丂`¯·力冇⁼·	wi1 aau1 lou4
+禾子·丂`·力冇·	wi aau lou
+禾子¯·臼久¯·	wi1 kau1
+禾子·臼久·	wi kau
+禾子·溝	wi1 kau1
+禾子¯·力正˝·	wi1 leng5
+禾子·力正·	wi leng
+禾子·領	wi1 leng5
+禾亙¯·	wang1
+禾亙·	wang
+禾乍ﾞ·厶乍¯·比子⁼·	waa6 saa1 bi4
+禾乍·厶乍·比子·	waa saa bi
+禾压ﾞ·厶乍¯·比子⁼·	waat6 saa1 bi4
+禾压·厶乍·比子·	waat saa bi
+禾乇¯·	wok1
+禾乇·	wok
+禾正ﾞ·	weng6
+禾正·	weng
+禾叐¯·	wet1
+禾叐·	wet
+禾叐¯·此丈⁼·	wet1 coeng4
+禾叐·此丈·	wet coeng
+禾叐·場	wet1 coeng4
+禾叐¯·文会¯·	wet1 mui1
+禾叐·文会·	wet mui
+禾叐·妹	wet1 mui1
+禾子¯·々·禾叐¯·々·	wi1 wi1 wet1 wet1
+禾子·々·禾叐·々·	wi wi wet wet
+禾丁¯·	wing1
+禾丁·	wing
+禾千¯·并丌¯·	win1 pei1
+禾千·并丌·	win pei
+禾勺¯·	woek1
+禾勺·	woek
+禾冇¯·	wou1
+禾冇·	wou
+禾冇¯·々·	wou1 wou1
+禾冇·々·	wou wou
+禾冇¯·々·	wou1 wou1
+禾冇·々·	wou wou
+禾千¯·并丌¯·	win1 pei1
+禾千·并丌·	win pei
+夕`¯·厶子⁼·	ik1 si4
+夕`·厶子·	ik si
+夕`¯·冇`¯·	ik1 ou1
+夕`·冇`·	ik ou
+夕`¯·厶冇¯·止丈`·	ik1 sou1 zoeng3
+夕`·厶冇·止丈·	ik sou zoeng
+夕`·厶冇·醬	ik1 sou1 zoeng3
+夕`¯·厶子⁼·古王¯·	ik1 si4 gwong1
+夕`·厶子·古王·	ik si gwong
+夕`·光	ik1 si4 gwong1
+禾介¯·	waai1
+禾介·	waai
+央甲`·	jaap3
+央甲·	jaap
+央甲ﾞ·	jaap6
+央甲·	jaap
+央旡¯·	je1
+央旡·	je
+央必¯·厶子´·	jit1 si2
+央必·厶子·	jit si
+央円¯·	jen1
+央円·	jen
+央个`·	jo3
+央个·	jo
+央冇¯·	jou1
+央冇·	jou
+央生¯·	jaang1
+央生·	jaang
+央乎¯·天乎¯·并`·	ju1 tup1
+央乎·天乎·并`·	ju tup
+央乎¯·天乎¯·并`·比乍⁼·	ju1 tup1 baa4
+央乎·天乎·并`·比乍·	ju tup baa
+禾介¯·并子¯·止兮´·	waai1 pi1 zai2
+禾介·并子·止兮·	waai pi zai
+禾介·并子·仔	waai1 pi1 zai2
+央子ﾞ·厶叐¯·	ji6 set1
+央子·厶叐·	ji set
+厶叐¯·	set1
+厶叐·	set
+止頁⁼·	zip4
+止頁·	zip
+厶乎¯·文`·	sum1
+厶乎·文`·	sum
+乍``·止居⁼·	aa3 zoe4
+乍`·止居·	aa zoe
+乍`·止居·	aa3 zoe4
+乍``·亾叐¯·	aa3 het1
+乍`·亾叐·	aa het
+乍`·亾叐·	aa3 het1
+乍``·臼么¯·	aa3 kiu1
+乍`·臼么·	aa kiu
+乍`·臼么·	aa3 kiu1
+乍``·臼么¯·止丁`·止元ﾞ·	aa3 kiu1 zing3 zyun6
+乍`·臼么·止丁·止元·	aa kiu zing zyun
+乍`·臼么·正傳	aa3 kiu1 zing3 zyun6
+乍``·厶居⁼·	aa3 soe4
+乍`·厶居·	aa soe
+乍`·厶居·	aa3 soe4
+爻王˝·并丁⁼·厶彡¯·力玉ﾞ·力丁⁼·	ngong5 ping4 saam1 luk6 ling4
+爻王·并丁·厶彡·力玉·力丁·	ngong ping saam luk ling
+比乍¯·比丌´·臼么¯·	baa1 bei2 kiu1
+比乍·比丌·臼么·	baa bei kiu
+巴比·臼么·	baa1 bei2 kiu1
+比乍¯·比丌´·臼么¯·	baa1 bei2 kiu1
+比乍·比丌·臼么·	baa bei kiu
+芭比·臼么·	baa1 bei2 kiu1
+比万ﾞ·臼乎¯·	baan6 ku1
+比万·臼乎·	baan ku
+扮·臼乎·	baan6 ku1
+比丂`·厶必¯·	baau3 sit1
+比丂·厶必·	baau sit
+爆·厶必·	baau3 sit1
+比会`·大个¯·夫云¯·	bui3 do1 fan1
+比会·大个·夫云·	bui do fan
+背多·夫云·	bui3 do1 fan1
+比兮ﾞ·丩乍¯·力了¯·	bai6 gaa1 leu1
+比兮·丩乍·力了·	bai gaa leu
+弊家·力了·	bai6 gaa1 leu1
+比个¯·比末¯·	bo1 but1
+比个·比末·	bo but
+波·比末·	bo1 but1
+此介´·力冇¯·力乍´·	caai2 lou1 laa2
+此介·力冇·力乍·	caai lou laa
+踩·力冇·力乍·	caai2 lou1 laa2
+央介´·力冇¯·力乍´·	jaai2 lou1 laa2
+央介·力冇·力乍·	jaai lou laa
+踩·力冇·力乍·	jaai2 lou1 laa2
+此丈`·臼丌¯·	coeng3 kei1
+此丈·臼丌·	coeng kei
+唱·臼丌·	coeng3 kei1
+此丈`·臼乍¯·力乍¯·冇`¯·臼丌¯·	coeng3 kaa1 laa1 ou1 kei1
+此丈·臼乍·力乍·冇`·臼丌·	coeng kaa laa ou kei
+唱卡·力乍¯·冇`·臼丌·	coeng3 kaa1 laa1 ou1 kei1
+此丈`·臼乍`·力乍¯·冇`¯·臼丌¯·	coeng3 kaa3 laa1 ou1 kei1
+此丈·臼乍·力乍·冇`·臼丌·	coeng kaa laa ou kei
+唱卡·力乍¯·冇`·臼丌·	coeng3 kaa3 laa1 ou1 kei1
+此旡¯·臼壬¯·	ce1 kem1
+此旡·臼壬·	ce kem
+車·臼壬·	ce1 kem1
+此旡´·力千¯·臼丌⁼·	ce2 lin1 kei4
+此旡·力千·臼丌·	ce lin kei
+扯·力千·旗	ce2 lin1 kei4
+此𥘅¯·此必¯·	ceot1 cit1
+此𥘅·此必·	ceot cit
+出·此必·	ceot1 cit1
+此𥘅¯·并乎¯·	ceot1 pu1
+此𥘅·并乎·	ceot pu
+出·并乎·	ceot1 pu1
+此𥘅¯·厶冇¯·	ceot1 sou1
+此𥘅·厶冇·	ceot sou
+出·厶冇·	ceot1 sou1
+此𥘅¯·力工⁼·力么¯·	ceot1 lung4 liu1
+此𥘅·力工·力么·	ceot lung liu
+出籠·力么·	ceot1 lung4 liu1
+此个⁼·大介ﾞ·大子´·	co4 daai6 di2
+此个·大介·大子·	co daai di
+鋤大·大子·	co4 daai6 di2
+厶元⁼·并子¯·	syun4 pi1
+厶元·并子·	syun pi
+船·并子·	syun4 pi1
+此句¯·比子¯·々·	ceoi1 bi1 bi1
+此句·比子·々·	ceoi bi bi
+吹·比子·比子·	ceoi1 bi1 bi1
+大甲`·禾正¯·止兮´·	daap3 weng1 zai2
+大甲·禾正·止兮·	daap weng zai
+搭·禾正·仔	daap3 weng1 zai2
+大乍´·丩久´·々·丩久´·	daa2 gau2 gau2 gau2
+大乍·丩久·々·々·	daa gau gau gau
+大乍´·比乇¯·厶丁´·	daa2 bok1 sing2
+大乍·比乇·厶丁·	daa bok sing
+打·比乇·厶丁·	daa2 bok1 sing2
+大乍´·止丌¯·	daa2 zei1
+大乍·止丌·	daa zei
+打·止丌·	daa2 zei1
+大介ﾞ·壬`¯·	daai6 em1
+大介·壬`·	daai em
+大·壬`·	daai6 em1
+大介ﾞ·厶居⁼·	daai6 soe4
+大介·厶居·	daai soe
+大·厶居·	daai6 soe4
+大介ﾞ·禾子¯·	daai6 wi1
+大介·禾子·	daai wi
+大·禾子·	daai6 wi1
+大万¯·天子¯·	daan1 ti1
+大万·天子·	daan ti
+單·天子·	daan1 ti1
+大亙´·大冇`·央子ﾞ·力丁⁼·厶丌`·力玉ﾞ·	dang2 dou3 ji6 ling4 sei3 luk6
+大亙·大冇·央子·力丁·厶丌·力玉·	dang dou ji ling sei luk
+大兮¯·比子¯·	dai1 bi1
+大兮·比子·	dai bi
+低·比子·	dai1 bi1
+大兮¯·比子¯·止兮´·	dai1 bi1 zai2
+大兮·比子·止兮·	dai bi zai
+低·比子·仔	dai1 bi1 zai2
+大子¯·夫円¯·	di1 fen1
+大子·夫円·	di fen
+少々·夫円·	di1 fen1
+大子¯·夫円¯·	di1 fen1
+大子·夫円·	di fen
+少々·夫円·	di1 fen1
+大必`·禾乇¯·	dit3 wok1
+大必·禾乇·	dit wok
+跌·禾乇·	dit3 wok1
+大必`·禾匃¯·	dit3 wot1
+大必·禾匃·	dit wot
+跌·禾匃·	dit3 wot1
+大工ﾞ·了`¯·	dung6 eu1
+大工·了`·	dung eu
+動·了`·	dung6 eu1
+大冇´·止丌¯·	dou2 zei1
+大冇·止丌·	dou zei
+賭·止丌·	dou2 zei1
+大冇´·止居¯·	dou2 zoe1
+大冇·止居·	dou zoe
+賭·止居·	dou2 zoe1
+大个¯·力乍¯·丌`¯·文工ﾞ·	do1 laa1 ei1 mung6
+大个·力乍·丌`·文工·	do laa ei mung
+哆·力乍¯·丌`·夢	do1 laa1 ei1 mung6
+爻百¯·力兮¯·	ngaak1 lai1
+爻百·力兮·	ngaak lai
+呃·力兮·	ngaak1 lai1
+百`¯·力兮¯·	aak1 lai1
+百`·力兮·	aak lai
+呃·力兮·	aak1 lai1
+夫压`·天子⁼·天亙⁼·	faat3 ti4 tang4
+夫压·天子·天亙·	faat ti tang
+發·天子·騰	faat3 ti4 tang4
+夫压`·天子⁼·天亙⁼·	faat3 ti4 tang4
+夫压·天子·天亙·	faat ti tang
+發·天子·騰	faat3 ti4 tang4
+夫云¯·丌`¯·比子¯·	fan1 ei1 bi1
+夫云·丌`·比子·	fan ei bi
+分·丌`·比子·	fan1 ei1 bi1
+丩丂´·此元`·丩个`·并压¯·天子⁼·	gaau2 cyun3 go3 paat1 ti4
+丩丂·此元·丩个·并压·天子·	gaau cyun go paat ti
+搞寸個·并压·天子·	gaau2 cyun3 go3 paat1 ti4
+丩百`·々·止了¯·々·	gaak3 gaak3 zeu1 zeu1
+丩百·々·止了·々·	gaak gaak zeu zeu
+格格·止了·止了·	gaak3 gaak3 zeu1 zeu1
+丩丂`·并乇¯·	gaau3 pok1
+丩丂·并乇·	gaau pok
+夠·并乇·	gaau3 pok1
+丩久`·并丂¯·禾乍⁼·	gau3 paau1 waa4
+丩久·并丂·禾乍·	gau paau waa
+夠·并丂·	gau3 paau1 waa4
+丩久`·臼个¯·力子´·	gau3 ko1 li2
+丩久·臼个·力子·	gau ko li
+夠·臼个·力子·	gau3 ko1 li2
+丩玉¯·壬`¯·	guk1 em1
+丩玉·壬`·	guk em
+谷·壬`·	guk1 em1
+古个´·止壬¯·	gwo2 zem1
+古个·止壬·	gwo zem
+果·止壬·	gwo2 zem1
+亾冇´·夫円¯·	hou2 fen1
+亾冇·夫円·	hou fen
+好·夫円·	hou2 fen1
+亾冇´·古丌¯·	hou2 gwei1
+亾冇·古丌·	hou gwei
+好·古丌·	hou2 gwei1
+亾冇´·亾介¯·	hou2 haai1
+亾冇·亾介·	hou haai
+好·亾介·	hou2 haai1
+亾冇´·并丌¯·	hou2 pei1
+亾冇·并丌·	hou pei
+好·并丌·	hou2 pei1
+亾冇´·央旡¯·	hou2 je1
+亾冇·央旡·	hou je
+好·央旡·	hou2 je1
+亾冇´·爻彡¯·臼子¯·	hou2 ngaam1 ki1
+亾冇·爻彡·臼子·	hou ngaam ki
+好·正岩·臼子·	hou2 ngaam1 ki1
+亾个⁼·比子¯·止兮´·	ho4 bi1 zai2
+亾个·比子·止兮·	ho bi zai
+何·比子·仔	ho4 bi1 zai2
+亾工⁼·丌`¯·	hung4 ei1
+亾工·丌`·	hung ei
+紅·丌`·	hung4 ei1
+亾工⁼·禾円¯·	hung4 wen1
+亾工·禾円·	hung wen
+紅·禾円·	hung4 wen1
+夫乎¯·臼十¯·并乜ﾞ·力円¯·	fu1 kap1 pat6 len1
+夫乎·臼十·并乜·力円·	fu kap pat len
+呼吸·并乜·	fu1 kap1 pat6 len1
+夫个`·禾円¯·	fo3 wen1
+夫个·禾円·	fo wen
+貨·禾円·	fo3 wen1
+丩兮¯·乃云¯·	gai1 nan1
+丩兮·乃云·	gai nan
+雞·乃云·	gai1 nan1
+丩甲`·比円¯·	gaap3 ben1
+丩甲·比円·	gaap ben
+夾·比円·	gaap3 ben1
+止千¯·并円¯·	zin1 pen1
+止千·并円·	zin pen
+煎·并円·	zin1 pen1
+丩千`·比匃¯·	gin3 bot1
+丩千·比匃·	gin bot
+見·比匃·	gin3 bot1
+丩王´·力万ﾞ·丩尺¯·	gong2 laan6 gek1
+丩王·力万·丩尺·	gong laan gek
+講爛·丩尺·	gong2 laan6 gek1
+丩丂´·丩尺¯·	gaau2 gek1
+丩丂·丩尺·	gaau gek
+攪·丩尺·	gaau2 gek1
+丩丂´·此元`·丩个`·并乍¯·天子⁼·	gaau2 cyun3 go3 paa1 ti4
+丩丂·此元·丩个·并乍·天子·	gaau cyun go paa ti
+攪串個·并乍·天子·	gaau2 cyun3 go3 paa1 ti4
+丩丂´·力万ﾞ·丩尺¯·	gaau2 laan6 gek1
+丩丂·力万·丩尺·	gaau laan gek
+攪爛·丩尺·	gaau2 laan6 gek1
+止頁`·止个¯·并`·	zip3 zop1
+止頁·止个·并`·	zip zop
+接·止个·并`·	zip3 zop1
+丩乜¯·々·夫円¯·	gat1 gat1 fen1
+丩乜·々·夫円·	gat gat fen
+拮拮·夫円·	gat1 gat1 fen1
+臼乍¯·力乍¯·冇`¯·臼丌¯·	kaa1 laa1 ou1 kei1
+臼乍·力乍·冇`·臼丌·	kaa laa ou kei
+卡拉·冇`·臼丌·	kaa1 laa1 ou1 kei1
+臼乍`·力乍¯·冇`¯·臼丌¯·	kaa3 laa1 ou1 kei1
+臼乍·力乍·冇`·臼丌·	kaa laa ou kei
+卡拉·冇`·臼丌·	kaa3 laa1 ou1 kei1
+臼乍¯·力乍¯·冇`¯·臼丌¯·	kaa1 laa1 ou1 kei1
+臼乍·力乍·冇`·臼丌·	kaa laa ou kei
+卡·力乍¯·冇`·臼丌·	kaa1 laa1 ou1 kei1
+臼乍`·力乍¯·冇`¯·臼丌¯·	kaa3 laa1 ou1 kei1
+臼乍·力乍·冇`·臼丌·	kaa laa ou kei
+卡·力乍¯·冇`·臼丌·	kaa3 laa1 ou1 kei1
+亾丐¯·比円¯·	hoi1 ben1
+亾丐·比円·	hoi ben
+開·比円·	hoi1 ben1
+亾丐¯·此尺¯·	hoi1 cek1
+亾丐·此尺·	hoi cek
+開·此尺·	hoi1 cek1
+亾丐¯·此尺¯·	hoi1 cek1
+亾丐·此尺·	hoi cek
+開·此尺·	hoi1 cek1
+亾丐¯·冇`¯·天子¯·	hoi1 ou1 ti1
+亾丐·冇`·天子·	hoi ou ti
+開·冇`·天子·	hoi1 ou1 ti1
+亾丐¯·并子¯·	hoi1 pi1
+亾丐·并子·	hoi pi
+開·并子·	hoi1 pi1
+亾丐¯·并乍¯·天子⁼·	hoi1 paa1 ti4
+亾丐·并乍·天子·	hoi paa ti
+開·并乍·天子·	hoi1 paa1 ti4
+亾丐¯·天居¯·比冇´·	hoi1 toe1 bou2
+亾丐·天居·比冇·	hoi toe bou
+開·天居·比冇·	hoi1 toe1 bou2
+个`¯·并子¯·	o1 pi1
+个`·并子·	o pi
+柯·并子·	o1 pi1
+力丌⁼·壬`¯·	lei4 em1
+力丌·壬`·	lei em
+來·壬`·	lei4 em1
+力彡´·比么¯·	laam2 biu1
+力彡·比么·	laam biu
+攬·比么·	laam2 biu1
+力万ﾞ·丩尺¯·	laan6 gek1
+力万·丩尺·	laan gek
+爛·丩尺·	laan6 gek1
+力丌⁼·壬`¯·	lei4 em1
+力丌·壬`·	lei em
+黎·壬`·	lei4 em1
+力兮⁼·壬`¯·	lai4 em1
+力兮·壬`·	lai em
+黎·壬`·	lai4 em1
+力工⁼·力么¯·	lung4 liu1
+力工·力么·	lung liu
+籠·力么·	lung4 liu1
+力玉¯·力丁¯·	luk1 ling1
+力玉·力丁·	luk ling
+碌·力丁·	luk1 ling1
+力乇ﾞ·大子¯·	lok6 di1
+力乇·大子·	lok di
+落·大子·	lok6 di1
+力玉ﾞ·禾円¯·	luk6 wen1
+力玉·禾円·	luk wen
+綠·禾円·	luk6 wen1
+文介˝·夫乎¯·止工¯·	maai5 fu1 zung1
+文介·夫乎·止工·	maai fu zung
+買·夫乎·鐘	maai5 fu1 zung1
+文冇˝·文末¯·	mou5 mut1
+文冇·文末·	mou mut
+冇·文末·	mou5 mut1
+文冇˝·并干¯·	mou5 pon1
+文冇·并干·	mou pon
+冇·并干·	mou5 pon1
+文冇˝·厶丌¯·	mou5 sei1
+文冇·厶丌·	mou sei
+冇·厶丌·	mou5 sei1
+文丌˝·古乇`·𠄡˝·央乜¯·臼句¯·	mei5 gwok3 ng5 jat1 keoi1
+文丌·古乇·𠄡·央乜·臼句·	mei gwok ng jat keoi
+美囻51區	mei5 gwok3 ng5 jat1 keoi1
+文云⁼·止玉ﾞ·力玉¯·	man4 zuk6 luk1
+文云·止玉·力玉·	man zuk luk
+民族·力玉·	man4 zuk6 luk1
+并介`·古丌¯·	paai3 gwei1
+并介·古丌·	paai gwei
+派·古丌·	paai3 gwei1
+并尺`·臼丌¯·	pek3 kei1
+并尺·臼丌·	pek kei
+劈·臼丌·	pek3 kei1
+此兮⁼·比子¯·大元´·夸云⁼·	cai4 bi1 dyun2 kwan4
+此兮·比子·大元·夸云·	cai bi dyun kwan
+齊·比子·短裙	cai4 bi1 dyun2 kwan4
+此兮⁼·比子¯·厶么´·大元´·夸云⁼·	cai4 bi1 siu2 dyun2 kwan4
+此兮·比子·厶么·大元·夸云·	cai bi siu dyun kwan
+齊·比子·小短裙	cai4 bi1 siu2 dyun2 kwan4
+丩乜¯·々·夫円¯·	gat1 gat1 fen1
+丩乜·々·夫円·	gat gat fen
+㓤㓤·夫円·	gat1 gat1 fen1
+此丁¯·比子¯·々·	cing1 bi1 bi1
+此丁·比子·々·	cing bi bi
+青·比子·比子·	cing1 bi1 bi1
+此正¯·比子¯·々·	ceng1 bi1 bi1
+此正·比子·々·	ceng bi bi
+青·比子·比子·	ceng1 bi1 bi1
+此丁¯·厶万¯·冇`¯·并云¯·大丌¯·	cing1 saan1 ou1 pan1 dei1
+此丁·厶万·冇`·并云·大丌·	cing saan ou pan dei
+青山·冇`·并云·大丌·	cing1 saan1 ou1 pan1 dei1
+亾正¯·臼正⁼·	heng1 keng4
+亾正·臼正·	heng keng
+輕·臼正·	heng1 keng4
+亾句`·禾叐¯·	heoi3 wet1
+亾句·禾叐·	heoi wet
+去·禾叐·	heoi3 wet1
+亾元¯·丌`¯·	hyun1 ei1
+亾元·丌`·	hyun ei
+圈·丌`·	hyun1 ei1
+厶介¯·丩旡¯·厶子´·	saai1 ge1 si2
+厶介·丩旡·厶子·	saai ge si
+嘥·丩旡·	saai1 ge1 si2
+厶彡¯·厶子¯·	saam1 si1
+厶彡·厶子·	saam si
+三·厶子·	saam1 si1
+厶彡¯·并子¯·	saam1 pi1
+厶彡·并子·	saam pi
+三·并子·	saam1 pi1
+厶彡¯·天子¯·	saam1 ti1
+厶彡·天子·	saam ti
+三·天子·	saam1 ti1
+厶万`·比円¯·	saan3 ben1
+厶万·比円·	saan ben
+散·比円·	saan3 ben1
+厶冇¯·臼个¯·力子´·	sou1 ko1 li2
+厶冇·臼个·力子·	sou ko li
+騷·臼个·力子·	sou1 ko1 li2
+厶冇¯·夸个¯·力子´·	sou1 kwo1 li2
+厶冇·夸个·力子·	sou kwo li
+騷·夸个·力子·	sou1 kwo1 li2
+厶冇`·臼匃¯·	sou3 kot1
+厶冇·臼匃·	sou kot
+掃·臼匃·	sou3 kot1
+厶乍¯·并乇¯·	saa1 pok1
+厶乍·并乇·	saa pok
+沙·并乇·	saa1 pok1
+厶乍¯·并乇¯·	saa1 pok1
+厶乍·并乇·	saa pok
+沙·并乇·	saa1 pok1
+厶个⁼·比子¯·	so4 bi1
+厶个·比子·	so bi
+傻·比子·	so4 bi1
+厶个⁼·此乍¯·	so4 caa1
+厶个·此乍·	so caa
+傻·此乍·	so4 caa1
+厶万¯·并冇¯·	saan1 pou1
+厶万·并冇·	saan pou
+刪·并冇·	saan1 pou1
+厶旡⁼·古旡¯·	se4 gwe1
+厶旡·古旡·	se gwe
+蛇·古旡·	se4 gwe1
+厶生¯·臼円¯·厶乍´·	saang1 ken1 saa2
+厶生·臼円·厶乍·	saang ken saa
+生·臼円·厶乍·	saang1 ken1 saa2
+厶十ﾞ·厶丌`·臼丌¯·	sap6 sei3 kei1
+厶十·厶丌·臼丌·	sap sei kei
+十四·臼丌·	sap6 sei3 kei1
+厶尺ﾞ·臼么¯·	sek6 kiu1
+厶尺·臼么·	sek kiu
+石·臼么·	sek6 kiu1
+厶夕ﾞ·并匃¯·	sik6 pot1
+厶夕·并匃·	sik pot
+食·并匃·	sik6 pot1
+厶乜ﾞ·臼么¯·	sat6 kiu1
+厶乜·臼么·	sat kiu
+實·臼么·	sat6 kiu1
+厶夕¯·大乎¯·	sik1 du1
+厶夕·大乎·	sik du
+識·大乎·	sik1 du1
+厶子ﾞ·大介¯·力冇´·	si6 daai1 lou2
+厶子·大介·力冇·	si daai lou
+士·大介·佬	si6 daai1 lou2
+厶工¯·并乜ﾞ·々·	sung1 pat6 pat6
+厶工·并乜·々·	sung pat pat
+鬆·并乜·并乜·	sung1 pat6 pat6
+天压`·臼么¯·	taat3 kiu1
+天压·臼么·	taat kiu
+撻·臼么·	taat3 kiu1
+天亙⁼·厶卂`·臼么¯·々·	tang4 seon3 kiu1 kiu1
+天亙·厶卂·臼么·々·	tang seon kiu kiu
+騰訊·臼么·臼么·	tang4 seon3 kiu1 kiu1
+天么`·冇`¯·夫乍⁼·	tiu3 ou1 faa4
+天么·冇`·夫乍·	tiu ou faa
+跳·冇`·夫乍·	tiu3 ou1 faa4
+央元⁼·厶壬ﾞ·	jyun4 sem6
+央元·厶壬·	jyun sem
+完·厶壬·	jyun4 sem6
+禾万´·力介¯·	waan2 laai1
+禾万·力介·	waan laai
+玩·力介·	waan2 laai1
+禾万´·旡`¯·厶壬¯·	waan2 e1 sem1
+禾万·旡`·厶壬·	waan e sem
+玩·旡`·厶壬·	waan2 e1 sem1
+禾万´·旡`¯·厶子⁼·壬`¯·	waan2 e1 si4 em1
+禾万·旡`·厶子·壬`·	waan e si em
+玩·旡`·厶子·	waan2 e1 si4 em1
+禾云´·央云⁼·此丈`·臼乍¯·力乍¯·冇`¯·臼丌¯·	wan2 jan4 coeng3 kaa1 laa1 ou1 kei1
+禾云·央云·此丈·臼乍·力乍·冇`·臼丌·	wan jan coeng kaa laa ou kei
+搵人唱卡拉·冇`·臼丌·	wan2 jan4 coeng3 kaa1 laa1 ou1 kei1
+𠄡⁼·大乎¯·	m4 du1
+𠄡·大乎·	m du
+𠄡·大乎·	m4 du1
+𠄡⁼·丩久`·臼个¯·力子´·	m4 gau3 ko1 li2
+𠄡·丩久·臼个·力子·	m gau ko li
+𠄡夠·臼个·力子·	m4 gau3 ko1 li2
+厶兮`·円`¯·	sai3 en1
+厶兮·円`·	sai en
+細·円`·	sai3 en1
+厶云¯·比子ﾞ·央干¯·	san1 bi6 jon1
+厶云·比子·央干·	san bi jon
+新·比子·央干·	san1 bi6 jon1
+央久¯·文乍¯·大丌¯·	jau1 maa1 dei1
+央久·文乍·大丌·	jau maa dei
+休孖·大丌·	jau1 maa1 dei1
+乍``·亾叐¯·	aa3 het1
+乍`·亾叐·	aa het
+亞·亾叐·	aa3 het1
+乍``·厶居⁼·	aa3 soe4
+乍`·厶居·	aa soe
+亞·厶居·	aa3 soe4
+爻彡¯·夫么¯·	ngaam1 fiu1
+爻彡·夫么·	ngaam fiu
+正岩·夫么·	ngaam1 fiu1
+爻彡¯·臼子¯·	ngaam1 ki1
+爻彡·臼子·	ngaam ki
+正岩·臼子·	ngaam1 ki1
+央乜¯·臼么¯·此丁¯·大丐´·	jat1 kiu1 cing1 doi2
+央乜·臼么·此丁·大丐·	jat kiu cing doi
+一·臼么·清袋	jat1 kiu1 cing1 doi2
+央乜¯·臼么¯·此丁¯·天丐´·	jat1 kiu1 cing1 toi2
+央乜·臼么·此丁·天丐·	jat kiu cing toi
+一·臼么·清枱	jat1 kiu1 cing1 toi2
+央乜¯·天夕¯·古个`·	jat1 tik1 gwo3
+央乜·天夕·古个·	jat tik gwo
+一·天夕·過	jat1 tik1 gwo3
+央子ﾞ·禾兮⁼·丌`¯·厶元¯·	ji6 wai4 ei1 syun1
+央子·禾兮·丌`·厶元·	ji wai ei syun
+異維·丌`·酸	ji6 wai4 ei1 syun1
+央久⁼·此个¯·并`·	jau4 cop1
+央久·此个·并`·	jau cop
+郵·此个·并`·	jau4 cop1
+央久˝·夫么¯·	jau5 fiu1
+央久·夫么·	jau fiu
+有·夫么·	jau5 fiu1
+央久˝·亾压¯·	jau5 haat1
+央久·亾压·	jau haat
+有·亾压·	jau5 haat1
+央久˝·并干¯·	jau5 pon1
+央久·并干·	jau pon
+有·并干·	jau5 pon1
+央久˝·厶丌¯·	jau5 sei1
+央久·厶丌·	jau sei
+有·厶丌·	jau5 sei1
+央久˝·厶冇⁼·	jau5 sou4
+央久·厶冇·	jau sou
+有·厶冇·	jau5 sou4
+止乍¯·夫必¯·	zaa1 fit1
+止乍·夫必·	zaa fit
+揸·夫必·	zaa1 fit1
+止乍¯·夫必¯·央云⁼·	zaa1 fit1 jan4
+止乍·夫必·央云·	zaa fit jan
+揸·夫必·人	zaa1 fit1 jan4
+止乍¯·力頁¯·央云⁼·	zaa1 lip1 jan4
+止乍·力頁·央云·	zaa lip jan
+揸·力頁·人	zaa1 lip1 jan4
+止介¯·天乇¯·	zaai1 tok1
+止介·天乇·	zaai tok
+齋·天乇·	zaai1 tok1
+止么`·夕`¯·厶子⁼·古王¯·	ziu3 ik1 si4 gwong1
+止么·夕`·厶子·古王·	ziu ik si gwong
+照·夕`·光	ziu3 ik1 si4 gwong1
+止云¯·央云⁼·厶冇¯·	zan1 jan4 sou1
+止云·央云·厶冇·	zan jan sou
+真人·厶冇·	zan1 jan4 sou1
+止尺`·大十¯·	zek3 dap1
+止尺·大十·	zek dap
+隻·大十·	zek3 dap1
+止工¯·天冇⁼·止元`·丩丌¯·	zung1 tou4 zyun3 gei1
+止工·天冇·止元·丩丌·	zung tou zyun gei
+中途轉·丩丌·	zung1 tou4 zyun3 gei1
+止仒¯·止兮´·并乜ﾞ·力円¯·	zyu1 zai2 pat6 len1
+止仒·止兮·并乜·力円·	zyu zai pat len
+豬仔·并乜·	zyu1 zai2 pat6 len1
+爻王ﾞ·大乇¯·々·	ngong6 dok1 dok1
+爻王·大乇·々·	ngong dok dok
+戇·大乇·大乇·	ngong6 dok1 dok1
+爻王ﾞ·臼么¯·々·	ngong6 kiu1 kiu1
+爻王·臼么·々·	ngong kiu kiu
+戇·臼么·臼么·	ngong6 kiu1 kiu1
+文乍¯·比子¯·	maa1 bi1
+文乍·比子·	maa bi
+孖·比子·	maa1 bi1
+文乍¯·比子¯·此旡¯·	maa1 bi1 ce1
+文乍·比子·此旡·	maa bi ce
+孖·比子·車	maa1 bi1 ce1
+文乍¯·臼么¯·	maa1 kiu1
+文乍·臼么·	maa kiu
+孖·臼么·	maa1 kiu1
+文乍¯·天子¯·	maa1 ti1
+文乍·天子·	maa ti
+孖·天子·	maa1 ti1
+止子ﾞ·亾介¯·	zi6 haai1
+止子·亾介·	zi haai
+自·亾介·	zi6 haai1
+止子ﾞ·并冇¯·	zi6 pou1
+止子·并冇·	zi pou
+自·并冇·	zi6 pou1
+此个˝·比乇¯·厶子´·	co5 bok1 si2
+此个·比乇·厶子·	co bok si
+坐·比乇·	co5 bok1 si2
+止冇ﾞ·止子¯·禾介¯·壬`¯·	zou6 zi1 waai1 em1
+止冇·止子·禾介·壬`·	zou zi waai em
+做·止子·	zou6 zi1 waai1 em1
+止冇ﾞ·力夾¯·	zou6 lep1
+止冇·力夾·	zou lep
+做·力夾·	zou6 lep1
+止冇ﾞ·并压¯·天介¯·	zou6 paat1 taai1
+止冇·并压·天介·	zou paat taai
+做·并压·天介·	zou6 paat1 taai1
+止冇ﾞ·厶冇`·	zou6 sou3
+止冇·厶冇·	zou sou
+做·厶冇·	zou6 sou3

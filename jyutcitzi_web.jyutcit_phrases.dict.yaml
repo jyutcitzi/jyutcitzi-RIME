@@ -1,0 +1,239 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: jyutcitzi.jyutcit_phrases
+version: "2"
+sort: by_weight
+use_preset_vocabulary: true
+...
+厶臼頁·堂	skip1 tong4	100000.0
+阿·厶央生¯·	aa3 sjaang1	100000.0
+阿·厶央生·	aa3 sjaang1	100000.0
+阿·亻厶央生·	aa3 sjaang1	100000.0
+并央丐·口水	pjoi hau2 seoi2	100000.0
+禾子¯·厶云⁼·	wi1 san4	100000.0
+禾子·厶云·	wi1 san4	100000.0
+忄禾子·忄厶云·	wi1 san4	100000.0
+黹禾子·黹厶云·	wi1 san4	100000.0
+乍``·天尺¯·	aa3 tek1	100000.0
+乍`·天尺·	aa3 tek1	100000.0
+乍`戈·天尺戈·	aa3 tek1	100000.0
+勺``·亾丌`·	oek3 hei3	100000.0
+勺`·亾丌`·	oek3 hei3	100000.0
+口勺`·亾丌`·	oek3 hei3	100000.0
+忄夫么·	fiu1	100000.0
+扌爻丂·	ngaau1	100000.0
+夫円¯．厶子´．	fen1 si2	100000.0
+夫円．厶子．	fen1 si2	100000.0
+亻夫円．亻厶子．	fen1 si2	100000.0
+辶厶円．	sen1	100000.0
+比介．大乍．禾丌．	baai daa wei	100000.0
+尼	ne1	100000.0
+㕦	god1	100000.0
+旡	ge3	100000.0
+囻	gwok3	100000.0
+恁	gam3	100000.0
+野	je5	100000.0
+徂	zo2	100000.0
+倛	dei6	100000.0
+黎	lei4	100000.0
+蒞	lei4	100000.0
+爾	ji4	100000.0
+邇	ji1	100000.0
+曬	saai3	100000.0
+姐	ze1	100000.0
+啫	zek1	100000.0
+嗟	zek1	100000.0
+亾	he3	100000.0
+彳固·	go2	100000.0
+个	go2	100000.0
+亇	go2	100000.0
+ケ	go2	100000.0
+亙	gan2	100000.0
+嚕	lu1	100000.0
+啝	wo5	100000.0
+少々·	di1	100000.0
+袂	mai5	100000.0
+五係·	mai3	100000.0
+工耳·	gam2	100000.0
+彳糸·	hai2	100000.0
+正岩·	ngaam1	100000.0
+自由·	zi6 jau4	100000.0
+係·五係·	hai6 mai6	100000.0
+係·五係·先	hai6 mai6 sin1	100000.0
+係·五係·真嘅	hai6 mai6 zan1 ge3	100000.0
+佢係·五係·	keoi5 hai6 mai6	100000.0
+好·五好·	hou2 mou2	100000.0
+可·五可·以	ho2 mo2 ji5	100000.0
+亻爻个·	ngo5	100000.0
+亻央云·	jan4	100000.0
+忄亾丌·忄央乙·	hei2 jyut6	100000.0
+Facebook	feis buk	100000.0
+夫丌·厶`·比玉·	feis buk	100000.0
+Instagram	in staa gwem	100000.0
+千厶·天乍·古壬·	ins taa gwem	100000.0
+千`·厶天乍·古壬·	in staa gwem	100000.0
+Twitter	twit taa	100000.0
+天禾必·天乍·	twit taa	100000.0
+Whatsapp	wot sep	100000.0
+禾匃·厶`·夾`·	wots ep	100000.0
+禾匃·厶`·旡夾·	wots eep	100000.0
+禾匃·厶`·爻夾·	wots ngep	100000.0
+禾匃·厶夾·	wot sep	100000.0
+Telegram	te le gwem	100000.0
+天旡·力旡·古壬·	te le gwem	100000.0
+Youtube	jyu tu ap	100000.0
+央乎·天乎·比`·	ju tub	100000.0
+央仒·天乎·比`·	jyu tub	100000.0
+央乎·天乎·十`·	ju tu ap	100000.0
+央仒·天乎·十`·	jyu tu ap	100000.0
+comment	ko men	100000.0
+訁臼个·訁文円·	ko men	100000.0
+訁臼个·訁文`·訁文円·	kom men	100000.0
+訁臼今·訁文円·	kam men	100000.0
+忄力兮·	lai1	100000.0
+share	se aa	100000.0
+厶亾旡·乍`·	she aa	100000.0
+厶旡·乍`·	se aa	100000.0
+Google Drive	gu gou zu waai fu	100000.0
+丩乎·丩冇·止乎·介夫·	gu gou zu aaif	100000.0
+丩乎·丩冇·止乎·禾介·夫乎·	gu gou zu waai fu	100000.0
+Brian	bwaai jan	100000.0
+比禾介·云`·	bwaai an	100000.0
+比禾介·央云·	bwaai jan	100000.0
+Trump	twam	100000.0
+此乎·今`·	cu am	100000.0
+天禾今·并`·	twamp	100000.0
+天禾今·	twam	100000.0
+臼旡·乍`·	ke aa	100000.0
+fair	fe aa	100000.0
+夫旡·乍`·	fe aa	100000.0
+complain	kom plein	100000.0
+訁臼今·訁并力丁·	kam pling	100000.0
+訁臼个·訁文`·訁并力丁·	kom pling	100000.0
+訁臼今·訁并力丌·訁乃`·	kam plein	100000.0
+訁臼个·訁文`·訁并力丌·訁乃`·	kom plein	100000.0
+stake	stik	100000.0
+厶天夕·	stik	100000.0
+train	twein	100000.0
+天禾丁·	twing	100000.0
+天禾丌·乃`·	twein	100000.0
+車天禾丁·	twing	100000.0
+車天禾丌·車乃`·	twein	100000.0
+structure	sdwak coe	100000.0
+厶大禾仄·此居	sdwak coe	100000.0
+木厶大禾仄·木此居	sdwak coe	100000.0
+亻并乍·亻天子·	paa ti	100000.0
+氵禾叐·	wet	100000.0
+slut	slat	100000.0
+亻厶力乜·	slat	100000.0
+whore	ho aa	100000.0
+亾个·乍`·	ho aa	100000.0
+亻亾个·亻乍`·	ho aa	100000.0
+cunt	kant	100000.0
+亻臼云·	kan	100000.0
+亻臼云·亻天`·	kant	100000.0
+扌丩今·	gam6	100000.0
+扌力个·	lo2	100000.0
+扌力丁·	ling1	100000.0
+扌力么·	liu4	100000.0
+扌力甲·	liu4	100000.0
+扌文必·	mit1	100000.0
+扌比必·	bit1	100000.0
+扌大末·	dut1	100000.0
+扌督·	dem	100000.0
+扌大壬·	dem	100000.0
+扌比介·	baai2	100000.0
+扌丩么·	giu6	100000.0
+扌丩丁·	ging	100000.0
+扌天句·	teoi1	100000.0
+扌天么·	tiu1	100000.0
+扌此久·	cau1	100000.0
+扌夫丁·	fing6	100000.0
+扌夫亙·	fang4	100000.0
+躝車埋去	laan1 ce1 maai4 heoi3	100000.0
+⻊力万·⻊此旡·埋去	laan1 ce1 maai4 heoi3	100000.0
+⻊力么·	liu4	100000.0
+⻊力彡·	laam	100000.0
+foul	fau1	100000.0
+⻊夫久·	fau1	100000.0
+耳天正·	teng1	100000.0
+耳天丁·	ting1	100000.0
+Britain	bwit tan	100000.0
+比禾必·天云·	bwit tan	100000.0
+bullshit	bu sit	100000.0
+訁比乎·訁厶必·	bu sit	100000.0
+horny	hon ni	100000.0
+火亾干·火乃子·	hon ni	100000.0
+sexy	sek si	100000.0
+身厶尺·身厶子·	sek si	100000.0
+亾工·埋黎	hung3 maai4 lei4	100000.0
+猜·此丁·此今·	caai1 cing4 cam4	100000.0
+臼子·々·臼壬·々·	ki4 ki1 kem4 kem4	100000.0
+fe開	fe4 heoi1	100000.0
+夫旡·開	fe4 heoi1	100000.0
+疒亾𥘅·	heot1	100000.0
+口大夾·	dep1	100000.0
+wu weh	wu1 we2	100000.0
+大丁¯·大居¯·	ding1 doe1	100000.0
+大丁·大居·	ding doe	100000.0
+厶句¯·大丐¯·	seoi1 doi1	100000.0
+厶句·大丐·	seoi1 doi1	100000.0
+衰·亻大丐·	seoi1 doi1	100000.0
+亾子·々·亾今·々·	hi4 hi1 ham4 ham4	100000.0
+cheap	cip1	100000.0
+貝此頁·	cip1	100000.0
+貝此頁·精	cip1 zing1	100000.0
+死·貝此頁·精	sei2 cip zing1	100000.0
+疒厶匃·	sot1	100000.0
+飠天子·	ti1	100000.0
+亾介·飠天子·	haai1 ti1	100000.0
+訁天么·訁天个·	tiu6 to1	100000.0
+釒文云·	man1	100000.0
+十·釒文云·	sap6 man1	100000.0
+鳥丩兮·	gai1	100000.0
+亻臼句·	keoi5	100000.0
+訁禾乍·	waa6	100000.0
+犭丩久·	gau2	100000.0
+approach	aa po cyu	100000.0
+乍`·并个·此仒·	aa po cyu	100000.0
+辶乍`·辶并个·辶此仒·	aa po cyu	100000.0
+Leibniz	laa baa nit zi	100000.0
+訁比円·	ben	100000.0
+gen	zjen1	100000.0
+玄丩央円·	zjen1	100000.0
+Mandelbrot set	man dou bwot set	100000.0
+transform	cwens fom	100000.0
+此禾円·厶`·夫王·	cwens fong	100000.0
+此禾円·厶`·夫个·文`·	cwens fom	100000.0
+chicken	cik1 kan4	100000.0
+此夕¯·臼云⁼·	cik1 kan4	100000.0
+此夕·臼云·	cik1 kan4	100000.0
+鳥此夕·鳥臼云·	cik1 kan4	100000.0
+此夕鳥·臼云鳥·	cik1 kan4	100000.0
+signal	sik1 nou4	100000.0
+厶夕¯·乃冇⁼·	sik1 nou4	100000.0
+厶夕·乃冇·	sik1 nou4	100000.0
+礻厶夕·礻乃冇·	sik1 nou4	100000.0
+reject	wi6 zek1	100000.0
+禾子ﾞ·止尺¯·	wi6 zek1	100000.0
+禾子·止尺·	wi6 zek1	100000.0
+訁禾子·訁止尺·	wi6 zek1	100000.0
+try	caai1	100000.0
+listen	lis1 san4	100000.0
+力必¯·厶云⁼·	lit1 san4	100000.0
+力必·厶云·	lit1 san4	100000.0
+耳力必·耳厶云·	lit1 san4	100000.0
+力子¯·厶`·厶云⁼·	lis1 san4	100000.0
+力子·厶`·厶云·	lis1 san4	100000.0
+耳力子·耳厶`·耳厶云·	lis1 san4	100000.0
+free	fwi1	100000.0
+夫子攵·	fi1	100000.0
+玄夫子·	fi1	100000.0
+羊夫子·	fi1	100000.0
+辶夫子·	fi1	100000.0
+夫禾子攵·	fwi1	100000.0
+玄夫禾子·	fwi1	100000.0
+羊夫禾子·	fwi1	100000.0
+辶夫禾子·	fwi1	100000.0

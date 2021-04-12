@@ -1,0 +1,239 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: jyutcitzi.jyutcit_phrases
+version: "2"
+sort: by_weight
+use_preset_vocabulary: true
+...
+堂	skip1 tong4	100000.0
+阿󲨸	aa3 sjaang1	100000.0
+阿	aa3 sjaang1	100000.0
+阿亻	aa3 sjaang1	100000.0
+口水	pjoi hau2 seoi2	100000.0
+󲈠󱎳	wi1 san4	100000.0
+	wi1 san4	100000.0
+	wi1 san4	100000.0
+	wi1 san4	100000.0
+󰀒󰭘	aa3 tek1	100000.0
+	aa3 tek1	100000.0
+	aa3 tek1	100000.0
+󰆚󱫢	oek3 hei3	100000.0
+󱫢	oek3 hei3	100000.0
+󱫢	oek3 hei3	100000.0
+	fiu1	100000.0
+	ngaau1	100000.0
+󰞸󱐡	fen1 si2	100000.0
+	fen1 si2	100000.0
+亻亻	fen1 si2	100000.0
+	sen1	100000.0
+	baai daa wei	100000.0
+尼	ne1	100000.0
+㕦	god1	100000.0
+旡	ge3	100000.0
+囻	gwok3	100000.0
+恁	gam3	100000.0
+野	je5	100000.0
+徂	zo2	100000.0
+倛	dei6	100000.0
+黎	lei4	100000.0
+蒞	lei4	100000.0
+爾	ji4	100000.0
+邇	ji1	100000.0
+曬	saai3	100000.0
+姐	ze1	100000.0
+啫	zek1	100000.0
+嗟	zek1	100000.0
+亾	he3	100000.0
+	go2	100000.0
+个	go2	100000.0
+亇	go2	100000.0
+ケ	go2	100000.0
+亙	gan2	100000.0
+嚕	lu1	100000.0
+啝	wo5	100000.0
+	di1	100000.0
+袂	mai5	100000.0
+	mai3	100000.0
+	gam2	100000.0
+	hai2	100000.0
+	ngaam1	100000.0
+	zi6 jau4	100000.0
+係	hai6 mai6	100000.0
+係先	hai6 mai6 sin1	100000.0
+係真嘅	hai6 mai6 zan1 ge3	100000.0
+佢係	keoi5 hai6 mai6	100000.0
+好五好	hou2 mou2	100000.0
+可五可以	ho2 mo2 ji5	100000.0
+亻	ngo5	100000.0
+亻	jan4	100000.0
+忄忄	hei2 jyut6	100000.0
+Facebook	feis buk	100000.0
+	feis buk	100000.0
+Instagram	in staa gwem	100000.0
+	ins taa gwem	100000.0
+	in staa gwem	100000.0
+Twitter	twit taa	100000.0
+	twit taa	100000.0
+Whatsapp	wot sep	100000.0
+	wots ep	100000.0
+旡夾	wots eep	100000.0
+	wots ngep	100000.0
+	wot sep	100000.0
+Telegram	te le gwem	100000.0
+	te le gwem	100000.0
+Youtube	jyu tu ap	100000.0
+	ju tub	100000.0
+	jyu tub	100000.0
+	ju tu ap	100000.0
+	jyu tu ap	100000.0
+comment	ko men	100000.0
+訁訁	ko men	100000.0
+訁訁訁	kom men	100000.0
+訁訁	kam men	100000.0
+忄	lai1	100000.0
+share	se aa	100000.0
+	she aa	100000.0
+	se aa	100000.0
+Google Drive	gu gou zu waai fu	100000.0
+	gu gou zu aaif	100000.0
+	gu gou zu waai fu	100000.0
+Brian	bwaai jan	100000.0
+	bwaai an	100000.0
+	bwaai jan	100000.0
+Trump	twam	100000.0
+	cu am	100000.0
+	twamp	100000.0
+	twam	100000.0
+	ke aa	100000.0
+fair	fe aa	100000.0
+	fe aa	100000.0
+complain	kom plein	100000.0
+訁訁	kam pling	100000.0
+訁訁訁	kom pling	100000.0
+訁訁訁	kam plein	100000.0
+訁訁訁訁	kom plein	100000.0
+stake	stik	100000.0
+	stik	100000.0
+train	twein	100000.0
+	twing	100000.0
+	twein	100000.0
+車	twing	100000.0
+車車	twein	100000.0
+structure	sdwak coe	100000.0
+	sdwak coe	100000.0
+木木	sdwak coe	100000.0
+亻亻	paa ti	100000.0
+氵	wet	100000.0
+slut	slat	100000.0
+亻	slat	100000.0
+whore	ho aa	100000.0
+	ho aa	100000.0
+亻亻	ho aa	100000.0
+cunt	kant	100000.0
+亻	kan	100000.0
+亻亻	kant	100000.0
+扌	gam6	100000.0
+扌	lo2	100000.0
+扌	ling1	100000.0
+扌	liu4	100000.0
+扌	liu4	100000.0
+扌	mit1	100000.0
+扌	bit1	100000.0
+扌	dut1	100000.0
+扌督	dem	100000.0
+扌	dem	100000.0
+扌	baai2	100000.0
+扌	giu6	100000.0
+扌	ging	100000.0
+扌	teoi1	100000.0
+扌	tiu1	100000.0
+扌	cau1	100000.0
+扌	fing6	100000.0
+扌	fang4	100000.0
+躝車埋去	laan1 ce1 maai4 heoi3	100000.0
+⻊⻊埋去	laan1 ce1 maai4 heoi3	100000.0
+⻊	liu4	100000.0
+⻊	laam	100000.0
+foul	fau1	100000.0
+⻊	fau1	100000.0
+耳	teng1	100000.0
+耳	ting1	100000.0
+Britain	bwit tan	100000.0
+	bwit tan	100000.0
+bullshit	bu sit	100000.0
+訁訁	bu sit	100000.0
+horny	hon ni	100000.0
+火火	hon ni	100000.0
+sexy	sek si	100000.0
+身身	sek si	100000.0
+埋蒞	hung3 maai4 lei4	100000.0
+猜	caai1 cing4 cam4	100000.0
+々々	ki4 ki1 kem4 kem4	100000.0
+fe開	fe4 heoi1	100000.0
+開	fe4 heoi1	100000.0
+疒	heot1	100000.0
+口	dep1	100000.0
+wu weh	wu1 we2	100000.0
+󰧀󰩈	ding1 doe1	100000.0
+	ding doe	100000.0
+󱓠󰧨	seoi1 doi1	100000.0
+	seoi1 doi1	100000.0
+衰亻	seoi1 doi1	100000.0
+々々	hi4 hi1 ham4 ham4	100000.0
+cheap	cip1	100000.0
+貝	cip1	100000.0
+貝精	cip1 zing1	100000.0
+死貝精	sei2 cip zing1	100000.0
+疒	sot1	100000.0
+飠	ti1	100000.0
+飠	haai1 ti1	100000.0
+訁訁	tiu6 to1	100000.0
+釒	man1	100000.0
+十釒	sap6 man1	100000.0
+鳥	gai1	100000.0
+亻	keoi5	100000.0
+訁	waa6	100000.0
+犭	gau2	100000.0
+approach	aa po cyu	100000.0
+	aa po cyu	100000.0
+辶辶辶	aa po cyu	100000.0
+Leibniz	laa baa nit zi	100000.0
+訁	ben	100000.0
+gen	zjen1	100000.0
+玄	zjen1	100000.0
+Mandelbrot set	man dou bwot set	100000.0
+transform	cwens fom	100000.0
+	cwens fong	100000.0
+	cwens fom	100000.0
+chicken	cik1 kan4	100000.0
+󱊘󱣳	cik1 kan4	100000.0
+	cik1 kan4	100000.0
+鳥鳥	cik1 kan4	100000.0
+鳥鳥	cik1 kan4	100000.0
+signal	sik1 nou4	100000.0
+󱑘󰵳	sik1 nou4	100000.0
+	sik1 nou4	100000.0
+礻礻	sik1 nou4	100000.0
+reject	wi6 zek1	100000.0
+󲈥󱂘	wi6 zek1	100000.0
+	wi6 zek1	100000.0
+訁訁	wi6 zek1	100000.0
+try	caai1	100000.0
+listen	lis1 san4	100000.0
+󰼐󱎳	lit1 san4	100000.0
+	lit1 san4	100000.0
+耳耳	lit1 san4	100000.0
+󰻠󱎳	lis1 san4	100000.0
+	lis1 san4	100000.0
+耳耳耳	lis1 san4	100000.0
+free	fwi1	100000.0
+攵	fi1	100000.0
+玄	fi1	100000.0
+羊	fi1	100000.0
+辶	fi1	100000.0
+攵	fwi1	100000.0
+玄	fwi1	100000.0
+羊	fwi1	100000.0
+辶	fwi1	100000.0

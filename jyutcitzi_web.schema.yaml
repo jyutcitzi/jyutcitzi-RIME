@@ -1,0 +1,87 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: jyutcitzi_web
+  name: 粵切字 (禾旡·比`·版)
+  version: "2"
+
+engine:
+  processors:
+    - ascii_composer
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - abc_segmentor
+    - punct_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+
+
+translator:
+  dictionary: jyutcitzi_web
+  spelling_hints: 8
+  preedit_format:
+    - xform/([aeioumngptkR])vv/$1⁴/
+    - xform/([aeioumngptkR])VV/$1⁴/
+    - xform/([aeioumngptkR])xx/$1⁵/
+    - xform/([aeioumngptkR])qq/$1⁶/
+    - xform/([aeioumngptkR])v/$1¹/
+    - xform/([aeioumngptkR])V/$1¹/
+    - xform/([aeioumngptkR])x/$1²/
+    - xform/([aeioumngptkR])q/$1³/
+
+punctuator:             # 設定符號表，這裏直接導入預設的
+  import_preset: default
+  half_shape: &symtable
+    "Q" : ¯
+    "W" : ´ # or ˊ
+    "E" : "`" # or ˋ
+    "A" : ⁼
+    "S" : ˝
+    "D" : ﾞ
+    "F" : ·
+  full_shape: *symtable
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcbaRV # VXQ
+  delimiter: " '"
+  algebra:
+    # setting 1: prefer - and = (55, 11) over ' and " (51/53, 21/31)
+    - derive/([123456])//         # 忽略声调
+    # setting 2: prefer ' and " (55, 11) over - and = (51/53, 21/31)
+    # - derive/([723856])//         # 忽略声调
+
+    - xform/2/x/                  # 陰上
+    - xform/5/xx/                 # 陽上
+    - xform/3/q/                  # 陰去
+    - xform/6/qq/                 # 陽去
+
+    # setting 1: prefer - and = (55, 11) over ' and " (51/53, 21/31)
+    - xform/1/v/                  # 陰平
+    - xform/4/vv/                 # 陽平
+    - xform/7/V/                  # 陰平 (alternative)
+    - xform/8/VV/                 # 陽平 (alternative)
+    # setting 2: prefer ' and " (55, 11) over - and = (51/53, 21/31)
+    # - derive/([723856])//         # 忽略声调
+    # - xform/1/V/                  # 陰平
+    # - xform/4/VV/                 # 陽平
+    # - xform/7/v/                  # 陰平 (alternative)
+    # - xform/8/vv/                 # 陽平 (alternative)
+    - derive/wl/r/                # 容錯
+
+    - derive/^jy?([aeiou])/y$1/   # 容錯 je -> ye, jyu -> yu
+    - derive/^jyu/ju/             # 容錯 jyu -> ju
+    - derive/yu/y/                # 容錯 jyu -> jy
+    - derive/eoi$/oey/            # 容錯
+    - derive/eoi$/eoy/            # 容錯
+    - derive/eo/oe/               # 容錯 eo/oe 不分
+    - derive/oe(ng|k)$/eo$1/      # 容錯
+    - derive/aa$/a/               # 容錯
+    - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
+    - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
