@@ -2,7 +2,7 @@
 RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Cantonese.
 
 ## Installation Instructions
-1. Install RIME ([Squirrel](https://github.com/rime/squirrel)for Mac, [Weasel](https://github.com/rime/weasel) for Windows)
+1. Install RIME ([Squirrel](https://github.com/rime/squirrel) for Mac, [Weasel](https://github.com/rime/weasel) for Windows)
 
 2. Install [RIME Cantonese](https://github.com/rime/rime-cantonese)  
    Don't forget to try it out and give it a feel, the Jyutcitzi RIME keyboard is very similar to it :)
@@ -20,8 +20,8 @@ RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Canton
    d. Under the language tab, having Squirrel selected, click “Deploy”  
    e. Wait for the keyboards to load, which takes a bit more than a minute  
    f. Hit F4 to switch to either:  
-      i. “粵切字 (禾旡·比`·版)” (web version of the keyboard), or  
-      ii. “粵切字 (夫干·天`·版)” (font version of the keyboard),  
+      i. “粵切字 (禾旡·比\`·版)” (web version of the keyboard), or  
+      ii. “粵切字 (夫干·天\`·版)” (font version of the keyboard),  
    g. Start typing!
    
    For Windows: To be Updated. Please contact us if you can help us extend this part of the README.
