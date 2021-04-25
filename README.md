@@ -1,6 +1,8 @@
 # jyutcitzi-RIME
 RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Cantonese.
 
+Thanks for supporting this Jyutcitzi keyboard and font project! The following sections contains the installation instruction for Mac and Windows, as well as some words on how to use the keyboard itself, and concludes with a FAQ section.
+
 ## Installation Instructions
 1. Install RIME ([Squirrel](https://github.com/rime/squirrel) for Mac, [Weasel](https://github.com/rime/weasel) for Windows)
 
@@ -43,3 +45,24 @@ For those who want to know more about what the keyboard contains, here is a desc
 - **mapping.txt** - a list containing the Unicode values for newly-created Jyutcitzi and 改革漢字 characters
 
 Apart from these files, the keyboard also relies on jyut6ping3.dict.yaml and jyut6ping3.phrase.dict.yaml from RIME Cantonese, which is why that has to be installed.
+
+## Keyboard Features
+Like RIME Cantonese, the keyboard has the following useful features:
+0. Hit CTRL + OPTION + ` to redeploy RIME if it bugs out. Restart the computer if necessary.
+1. Hit F4 or CTRL + ` (the backward tick next to the escape button) to switch between RIME keyboards via the arrow and enter key.
+2. Hitting the SHIFT or CAPS LOCK key allows one to switch between Latin (A) and Jyutping (中)
+3. Tones is optional when typing, add tones as follows:
+   
+The extended Jyutcitzi alphabet also contains two additional tone marks: V for 7:
+
+
+On the account of aesthetics, some will prefer the use of ' and " over ‒ and = for marking tones 1 and 4 when marking tones in Cantonese. To change this preference, please select setting 2 instead of setting 1 in the files jyutcitzi_font.schema.yaml and jyutcitzi_web.schema.yaml.
+
+4. The single quote character ' can be used to separate characters in a string of Jyutping. This character is needed in order to disambiguate the way in which the keyboard splits the string of letters.
+e.g. song'kyun ⇒ , instead of songk yun, which gives 
+5. The repeat character 々 is automatically used for known compounds
+e.g. wong gam gam ⇒ 
+6. The Jyutcitzi keyboards also has the following key bindings:
+Q⇒ ̄，W⇒ ́，E⇒`，A⇒=，S⇒ ̋，D⇒゙，R⇒々
+7. The Jyutcitzi keyboards appropriately provide both toneful and toneless Jyutcitzi as output options. To add pitch to other monosyllables with no toneful option manually use the key bindings!
+Warning: Try not to type too many characters in one go, it'll lag the computer a lot!
