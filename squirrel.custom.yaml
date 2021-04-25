@@ -1,0 +1,6 @@
+# squirrel.custom.yaml
+patch:
+  style/font_face: "JyutcitziWithSourceHanSansHC"
+  style/font_point: 22
+  style/label_font_face: "JyutcitziWithSourceHanSansHC"
+  style/label_font_point: 22 #pre-selected column number font size
