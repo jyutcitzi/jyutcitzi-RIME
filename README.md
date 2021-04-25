@@ -19,7 +19,7 @@ RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Canton
    c. Copy and paste the YAML files to the Rime folder  
    d. Under the language tab, having Squirrel selected, click “Deploy”  
    e. Wait for the keyboards to load, which takes a bit more than a minute  
-   f. Hit F4 to switch to either:  
+   f. Hit F4 or CTRL + \` to switch to either:  
       i. “粵切字 (禾旡·比\`·版)” (web version of the keyboard), or  
       ii. “粵切字 (夫干·天\`·版)” (font version of the keyboard),  
    g. Start typing!
