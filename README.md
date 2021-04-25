@@ -6,6 +6,7 @@ Thanks for supporting this Jyutcitzi keyboard and font project! The following se
 3. [Keyboard Features](#keyboard-features)  
 4. [Frequently Asked Questions](#frequently-asked-questions)  
 5. [Software Updates](#software-updates)
+
 ![Cover Picture](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/d5f0104ab5d2a111f9dc2a0ffa511709fb88f83e/images/cover_picture.png)
 
 
