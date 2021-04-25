@@ -53,8 +53,8 @@ Like RIME Cantonese, the keyboard has the following useful features:
 2. Hitting the SHIFT or CAPS LOCK key allows one to switch between Latin (A) and Jyutping (中)
 3. Tones is optional when typing, add tones as follows:  
    ![alt text](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/1efad951f8ef6e2cbc36f05b85726a21e3a2f1c5/images/tone_marks.png "Tone marks in RIME")  
-   The extended Jyutcitzi alphabet also contains two additional tone marks: V for 7:  
-   ![alt text](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/1efad951f8ef6e2cbc36f05b85726a21e3a2f1c5/images/tone_marks.png "Extended tone marks in RIME")  
+   The extended Jyutcitzi alphabet also contains two additional tone marks:  
+   ![alt text](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/4fc8bf49e4424a0743e854259ff2c454eed5a311/images/tone_marks_extended.png "Extended tone marks in RIME")  
    On the account of aesthetics, some will prefer the use of ' and " over ‒ and = for marking tones 1 and 4 when marking tones in Cantonese. To change this preference, please select setting 2 instead of setting 1 in the files jyutcitzi_font.schema.yaml and jyutcitzi_web.schema.yaml.
 
 4. The single quote character ' can be used to separate characters in a string of Jyutping. This character is needed in order to disambiguate the way in which the keyboard splits the string of letters.
@@ -66,3 +66,15 @@ e.g. wong gam gam ⇒ 
 7. The Jyutcitzi keyboards appropriately provide both toneful and toneless Jyutcitzi as output options. To add pitch to other monosyllables with no toneful option manually use the key bindings!
 
 Warning: Try not to type too many characters in one go, it'll lag the computer a lot!
+
+## Frequently Asked Questions
+Q: The keyboard stopped working!  
+A: Try redeploying it under the language tab, or perhaps try restarting your computer.
+
+Q: I can't type a specific monosyllable, e.g. schweis!  
+A: This Jyutcitzi keyboard is meant to only cover monosyllabic combinations that are likely to be used in English and Cantonese. If you think it is really essential to add a certain monosyllable to the keyboard, feel free to suggest it by [opening a new issue](https://github.com/jyutcitzi/jyutcitzi-RIME/issues/new)!
+
+Q: Where does the keyboard's lexicon come from?  
+A: It directly comes from the lexicon used in RIME Cantonese (a version from Feb-Mar 2020 to be exact)
+
+#
