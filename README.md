@@ -14,6 +14,7 @@ Thanks for supporting this Jyutcitzi keyboard and font project! The following se
 1. Install RIME ([Squirrel](https://github.com/rime/squirrel) for Mac, [Weasel](https://github.com/rime/weasel) for Windows)
 
 2. Install [RIME Cantonese](https://github.com/rime/rime-cantonese)  
+   For instructions please see https://github.com/rime/rime-cantonese/wiki
    Don't forget to try it out and give it a feel, the Jyutcitzi RIME keyboard is very similar to it :)
 
 3. Install the Jyutcitizi font (available at https://github.com/jyutcitzi/jyutcitzi-fonts)  
