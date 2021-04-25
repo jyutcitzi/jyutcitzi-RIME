@@ -3,9 +3,9 @@ RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Canton
 Thanks for supporting this Jyutcitzi keyboard and font project! The following sections contains the installation instruction for Mac and Windows, as well as some words on how to use the keyboard itself, and concludes with a FAQ section.
 
 [Installation Instructions](#installation-instructions)  
-[File Descriptions](#file-descriptions)
-[Keyboard Features](#keyboard-features)
-[Frequently Asked Questions](#frequently-asked-questions)
+[File Descriptions](#file-descriptions)  
+[Keyboard Features](#keyboard-features)  
+[Frequently Asked Questions](#frequently-asked-questions)  
 [Software Updates](#software-updates)
 
 ## Installation Instructions
