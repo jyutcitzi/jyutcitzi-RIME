@@ -52,15 +52,15 @@ Like RIME Cantonese, the keyboard has the following useful features:
 1. Hit F4 or CTRL + ` (the backward tick next to the escape button) to switch between RIME keyboards via the arrow and enter key.
 2. Hitting the SHIFT or CAPS LOCK key allows one to switch between Latin (A) and Jyutping (中)
 3. Tones is optional when typing, add tones as follows:  
-   ![alt text](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/1efad951f8ef6e2cbc36f05b85726a21e3a2f1c5/images/tone_marks.png "Tone marks in RIME")  
+   ![Tone marks in RIME](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/1efad951f8ef6e2cbc36f05b85726a21e3a2f1c5/images/tone_marks.png)  
    The extended Jyutcitzi alphabet also contains two additional tone marks:  
-   ![alt text](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/4fc8bf49e4424a0743e854259ff2c454eed5a311/images/tone_marks_extended.png "Extended tone marks in RIME")  
+   ![Extended tone marks in RIME](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/4fc8bf49e4424a0743e854259ff2c454eed5a311/images/tone_marks_extended.png)  
    On the account of aesthetics, some will prefer the use of ' and " over ‒ and = for marking tones 1 and 4 when marking tones in Cantonese. To change this preference, please select setting 2 instead of setting 1 in the files jyutcitzi_font.schema.yaml and jyutcitzi_web.schema.yaml.
 
-4. The single quote character ' can be used to separate characters in a string of Jyutping. This character is needed in order to disambiguate the way in which the keyboard splits the string of letters.
-e.g. song'kyun ⇒ , instead of songk yun, which gives 
-5. The repeat character 々 is automatically used for known compounds
-e.g. wong gam gam ⇒ 
+4. The single quote character ' can be used to separate characters in a string of Jyutping. This character is needed in order to disambiguate the way in which the keyboard splits the string of letters, e.g. use song'kyun instead of songk yun:  
+![Apostrophe for separating](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/194d5590b80284f298057cd7f67dbe43b7c151e2/images/apostrophe_for_separating.png)
+5. The repeat character 々 is automatically used for known compounds:  
+![Repeat glyph](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/194d5590b80284f298057cd7f67dbe43b7c151e2/images/repeat_mark.png)
 6. The Jyutcitzi keyboards also has the following key bindings:  
    Q ⇒  ̄，W ⇒  ́，E ⇒ \`，A ⇒ =，S ⇒  ̋，D ⇒ ﾞ，R⇒々
 7. The Jyutcitzi keyboards appropriately provide both toneful and toneless Jyutcitzi as output options. To add pitch to other monosyllables with no toneful option manually use the key bindings!
