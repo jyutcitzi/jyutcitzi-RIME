@@ -93,7 +93,7 @@ A: It directly comes from the lexicon used in RIME Cantonese (a version from Feb
    ![Toneful repeat](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/aee302bd087caba2e933d9f22a11b8455ace1e87/images/toneful_repeat.png)
 3. A sufficient amount of initial consonant cluster-containing Jyutcitzis were added, such as “shwaang” (厶亾禾生), “fwoe” (夫禾居·) and “jyue” (央仒旡·):  
    ![shwaang fwoe jyue](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/aee302bd087caba2e933d9f22a11b8455ace1e87/images/shwaang_fwoe_jyue.png)
-4. Numerous tone-free combinations relating to consonant clusters were also added. Examples include “soecj” and “witcj” (English “search” and “which”):
+4. Numerous tone-free combinations relating to consonant clusters were also added. Examples include “soecj” and “witcj” (English “search” and “which”):  
    ![soecj witcj](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/aee302bd087caba2e933d9f22a11b8455ace1e87/images/soecj_witcj.png)
 5.The keyboard also allows one to transcribe English, Mandarin, Japanese, Taiwanese Hokkien and Taiwanese Hakka in Jyutcitzi. To do this, the following novel components are added:  
 a. 圭(⿰) for v- (used in Taiwanese Hakka and English)  
