@@ -38,7 +38,9 @@ Thanks for supporting this Jyutcitzi keyboard and font project! The following se
 ## File Descriptions
 For those who want to know more about what the keyboard contains, here is a description of the keyboard-related files in this folder:
 - **default.custom.yaml** - config file for specifying the list of RIME keyboards to use (i.e. RIME Cantonese and Jyutcitzi keyboard)
-- **jyutcitzi_font.schema.yaml** - config file for the Jyutcitzi font keyboard jyutcitzi_web.schema.yaml - config file for the Jyutcitzi web keyboard 
+- **squirrel.custom.yaml** - config file for specifying the font used in the RIME interface, notably used for rendering the Jyutcitzis listed in the list of options when typing
+- **jyutcitzi_font.schema.yaml** - config file for the Jyutcitzi font keyboard
+- **jyutcitzi_web.schema.yaml** - config file for the Jyutcitzi web keyboard 
 - **jyutcitzi_font.dict.yaml** - main dictionary for the Jyutcitzi font keyboard, and contains a wide selection of monosyllables rendered using font-based Jyutcitzi characters
 - **jyutcitzi_web.dict.yaml** - main dictionary for the Jyutcitzi web keyboard, and contains a wide selection of monosyllables rendered using web-based Jyutcitzi characters
 - **jyutcitzi_core.lettered.dict.yaml** - dictionary containing the original list of latin- containing compounds from jyut6ping3.lettered.dict.yaml 
