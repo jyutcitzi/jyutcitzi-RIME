@@ -5,6 +5,23 @@ schema:
   schema_id: jyutcitzi_font
   name: 粵切字 (夫干·天`·版)
   version: "2"
+  author:
+    - jyutcitzi <jyutcitzi_now@protonmail.com>
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - options: [ noop, trad_hk, trad_tw ]
+    states: [ 不轉換, 香港繁體, 臺灣正體 ]
+    reset: 1
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  - name: emoji_suggestion
+    reset: 1
+    states: [ "🈚️️\uFE0E", "🈶️️\uFE0F" ]
 
 engine:
   processors:
@@ -21,6 +38,12 @@ engine:
   translators:
     - punct_translator
     - script_translator
+  filters:
+    - simplifier@trad_tw
+    - simplifier@trad_hk
+    - simplifier@simp_cn
+    - simplifier@emoji_suggestion
+    - uniquifier
 
 
 translator:
@@ -35,18 +58,6 @@ translator:
     - xform/([aeioumngptkR])V/$1¹/
     - xform/([aeioumngptkR])x/$1²/
     - xform/([aeioumngptkR])q/$1³/
-
-punctuator:             # 設定符號表，這裏直接導入預設的
-  import_preset: default
-  half_shape: &symtable
-    "Q" : ¯
-    "W" : ´ # or ˊ
-    "E" : "`" # or ˋ
-    "A" : ⁼
-    "S" : ˝
-    "D" : ﾞ
-    "F" : ·
-  full_shape: *symtable
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcbaRV # VXQ
@@ -85,3 +96,28 @@ speller:
     - derive/aa$/a/               # 容錯
     - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
     - abbrev/^([a-z]{2}).+$/$1/   # 首2字母簡拼
+
+trad_tw:
+  option_name: trad_tw
+  opencc_config: t2tw.json
+
+trad_hk:
+  option_name: trad_hk
+  opencc_config: t2hk.json
+
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: all
+
+punctuator:             # 設定符號表，這裏直接導入預設的
+  import_preset: default
+  half_shape: &symtable
+    "Q" : ¯
+    "W" : ´ # or ˊ
+    "E" : "`" # or ˋ
+    "A" : ⁼
+    "S" : ˝
+    "D" : ﾞ
+    "F" : ·
+  full_shape: *symtable
