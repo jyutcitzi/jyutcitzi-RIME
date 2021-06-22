@@ -28,13 +28,22 @@ Thanks for supporting this Jyutcitzi keyboard and font project! The following se
    b. Click “Settings...”. A new Finder window should appear  
    c. Copy and paste the YAML files to the Rime folder  
    d. Under the language tab, having Squirrel selected, click “Deploy”  
-   e. Wait for the keyboards to load, which takes a bit more than a minute  
+   e. Wait for the keyboards to load (please be patient!) 
    f. Hit F4 or CTRL + \` to switch to either:  
       i. “粵切字 (禾旡·比\`·版)” (web version of the keyboard), or  
       ii. “粵切字 (夫干·天\`·版)” (font version of the keyboard),  
    g. Start typing!
    
-   For Windows: To be Updated. Please contact us if you can help us extend this part of the README.
+   For Windows:  
+   a. Press Windows Key + R, enter %AppData%\Rime and press ENTER (try %AppData%\Rime). A new window should appear
+   c. Copy and paste the YAML files to the Rime folder  
+   d. Press "All Applications" > "RIME Weasel" > "[Weasel]Deploy"  
+   e. Wait for the keyboards to load (please be patient!)
+   f. Hit F4 or CTRL + \` to switch to either:  
+      i. “粵切字 (禾旡·比\`·版)” (web version of the keyboard), or  
+      ii. “粵切字 (夫干·天\`·版)” (font version of the keyboard),  
+   g. Start typing!
+   To be Updated. Please contact us if you can help us extend this part of the README.
 
 ## File Descriptions
 For those who want to know more about what the keyboard contains, here is a description of the keyboard-related files in this folder:
