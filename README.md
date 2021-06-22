@@ -1,5 +1,6 @@
 # jyutcitzi-RIME
-![GitHub last commit](https://img.shields.io/github/last-commit/jyutcitzi/jyutcitzi-RIME.svg) ![GitHub](https://img.shields.io/github/license/jyutcitzi/jyutcitzi-RIME.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/jyutcitzi/jyutcitzi-RIME.svg) ![GitHub](https://img.shields.io/github/license/jyutcitzi/jyutcitzi-RIME.svg)  
+Recipe: ℞ **jyutcitzi/jyutcitzi-RIME**
 
 RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Cantonese.  
 Thanks for supporting this Jyutcitzi keyboard and font project! The following sections contains the installation instruction for Mac and Windows, as well as some words on how to use the keyboard itself, and concludes with a FAQ section:  
@@ -29,7 +30,7 @@ For Mac: Open the TTF file using Font Book, and click “install”
 For Windows: Right-click on the TTF file and select install  
 For Linux: Google "how to install font on *your linux distribution*"  
 
-Without the font, the Jyutcitzi characters cannot be properly rendered. In terms of fonts, PMingLiU (Regular), SourceHanSerifTC (all weights) and SourceHanSansHC (all weights) have all been augmented with Jyutcitzi characters. SourceHanSansHWHC (all weights) has also been included in the set of fonts, though it only contains Jyutcitzi characters.
+This step is required in order to render the Jyutcitzi characters. In terms of fonts, PMingLiU (Regular), SourceHanSerifTC (all weights) and SourceHanSansHC (all weights) have all been augmented with Jyutcitzi characters. SourceHanSansHWHC (all weights) has also been included in the set of fonts, though it only contains Jyutcitzi characters.
 
 ### Step 3: Install the Jyutcitzi keyboards (web and font version) 
 #### For Mac:
@@ -53,7 +54,6 @@ Without the font, the Jyutcitzi characters cannot be properly rendered. In terms
    f. Start typing!
 
 ## File Descriptions
-For those who want to know more about what the keyboard contains, here is a description of the keyboard-related files in this folder:
 - **default.custom.yaml** - config file for specifying the list of RIME keyboards to use (i.e. RIME Cantonese and Jyutcitzi keyboard)
 - **squirrel.custom.yaml** - config file for specifying the font used in the RIME interface, notably used for rendering the Jyutcitzis listed in the list of options when typing
 - **jyutcitzi_font.schema.yaml** - config file for the Jyutcitzi font keyboard
