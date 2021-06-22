@@ -1,4 +1,6 @@
 # jyutcitzi-RIME
+![GitHub last commit](https://img.shields.io/github/last-commit/jyutcitzi/jyutcitzi-RIME.svg) ![GitHub](https://img.shields.io/github/license/jyutcitzi/jyutcitzi-RIME.svg)
+
 RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Cantonese.  
 Thanks for supporting this Jyutcitzi keyboard and font project! The following sections contains the installation instruction for Mac and Windows, as well as some words on how to use the keyboard itself, and concludes with a FAQ section:  
 1. [Installation Instructions](#installation-instructions)  
@@ -11,19 +13,26 @@ Thanks for supporting this Jyutcitzi keyboard and font project! The following se
 
 
 ## Installation Instructions
-1. Install RIME ([Squirrel](https://github.com/rime/squirrel) for Mac, [Weasel](https://github.com/rime/weasel) for Windows)
+For further questions regarding installation please ask at https://t.me/jyutzigoigaak.
+### Step 1: Install RIME and RIME Cantonese
+Please follow instructions at https://github.com/rime/rime-cantonese/wikihttps://github.com/rime/rime-cantonese/wiki/新手安裝教程  
+In a nutshell, download and install using the following files:  
+Mac: [mac-2021.05.16-installer.pkg](https://github.com/rime/rime-cantonese/releases/download/2021.05.16/mac-2021.05.16-installer.pkg)  
+Windows: [windows-sfx-2021.05.16-installer.exe](https://github.com/rime/rime-cantonese/releases/download/2021.05.16/windows-sfx-2021.05.16-installer.exe)  
+Linux: Download and run [ibus-install.sh](https://github.com/rime/rime-cantonese/releases/download/2021.05.16/ibus-install.sh)  
+Please check to ensure that RIME Cantonese is properly installed before proceeding to Step 3.  
 
-2. Install [RIME Cantonese](https://github.com/rime/rime-cantonese)  
-   For instructions please see https://github.com/rime/rime-cantonese/wiki
-   Don't forget to try it out and give it a feel, the Jyutcitzi RIME keyboard is very similar to it :)
+### Step 2: Install the Jyutcitizi font
+1. Download Jyutcitzi fonts at https://github.com/jyutcitzi/jyutcitzi-fonts
+2. Install the fonts:  
+For Mac: Open the TTF file using Font Book, and click “install”  
+For Windows: Right-click on the TTF file and select install  
+For Linux: Google "how to install font on *your linux distribution*"  
 
-3. Install the Jyutcitizi font (available at https://github.com/jyutcitzi/jyutcitzi-fonts)  
-   For Mac: Open the TTF file using Font Book, and click “install”  
-   For Windows: Right-click on the TTF file and select install  
-   Without the font, the Jyutcitzi characters cannot be properly rendered. In terms of fonts, PMingLiU (Regular), SourceHanSerifTC (all weights) and SourceHanSansHC (all weights) have all been augmented with Jyutcitzi characters. SourceHanSansHWHC (all weights) has also been included in the set of fonts, though it only contains Jyutcitzi characters.
+Without the font, the Jyutcitzi characters cannot be properly rendered. In terms of fonts, PMingLiU (Regular), SourceHanSerifTC (all weights) and SourceHanSansHC (all weights) have all been augmented with Jyutcitzi characters. SourceHanSansHWHC (all weights) has also been included in the set of fonts, though it only contains Jyutcitzi characters.
 
-4.  Install the Jyutcitzi keyboards (web and font version)  
-   For Mac:  
+### Step 3: Install the Jyutcitzi keyboards (web and font version) 
+#### For Mac:
    a. Switch to “Squirrel” on the language tab at the top of the screen  
    b. Click “Settings...”. A new Finder window should appear  
    c. Copy and paste the YAML files to the Rime folder  
@@ -31,19 +40,17 @@ Thanks for supporting this Jyutcitzi keyboard and font project! The following se
    e. Wait for the keyboards to load (please be patient!) 
    f. Hit F4 or CTRL + \` to switch to either:  
       i. “粵切字 (禾旡·比\`·版)” (web version of the keyboard), or  
-      ii. “粵切字 (夫干·天\`·版)” (font version of the keyboard),  
+      ii. “粵切字 (夫干·天\`·版)” (font version of the keyboard)  
    g. Start typing!
-   
-   For Windows:  
-   a. Press Windows Key + R, enter %AppData%\Rime and press ENTER (try %AppData%\Rime). A new window should appear
+#### For Windows: 
+   a. Press Windows Key + R, enter %AppData%\Rime and press ENTER (try %AppData%\Rime). A new window should appear  
    b. Copy and paste the YAML files to the Rime folder  
    c. Press "All Applications" > "RIME Weasel" > "[Weasel]Deploy"  
    d. Wait for the keyboards to load (please be patient!)
    e. Hit F4 or CTRL + \` to switch to either:  
-      i. “粵切字 (禾旡·比\`·版)” (web version of the keyboard), or  
-      ii. “粵切字 (夫干·天\`·版)” (font version of the keyboard),  
+     i. “粵切字 (禾旡·比\`·版)” (web version of the keyboard), or  
+     ii. “粵切字 (夫干·天\`·版)” (font version of the keyboard)  
    f. Start typing!
-   To be Updated. Please contact us if you can help us extend this part of the README.
 
 ## File Descriptions
 For those who want to know more about what the keyboard contains, here is a description of the keyboard-related files in this folder:
