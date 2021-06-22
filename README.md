@@ -38,7 +38,7 @@ This step is required in order to render the Jyutcitzi characters. In terms of f
    b. Click “Settings...”. A new Finder window should appear  
    c. Copy and paste the YAML files to the Rime folder  
    d. Under the language tab, having Squirrel selected, click “Deploy”  
-   e. Wait for the keyboards to load (please be patient!) 
+   e. Wait for the keyboards to load (please be patient!)  
    f. Hit F4 or CTRL + \` to switch to either:  
       i. “粵切字 (禾旡·比\`·版)” (web version of the keyboard), or  
       ii. “粵切字 (夫干·天\`·版)” (font version of the keyboard)  
@@ -47,7 +47,7 @@ This step is required in order to render the Jyutcitzi characters. In terms of f
    a. Press Windows Key + R, enter %AppData%\Rime and press ENTER (try %AppData%\Rime). A new window should appear  
    b. Copy and paste the YAML files to the Rime folder  
    c. Press "All Applications" > "RIME Weasel" > "[Weasel]Deploy"  
-   d. Wait for the keyboards to load (please be patient!)
+   d. Wait for the keyboards to load (please be patient!)  
    e. Hit F4 or CTRL + \` to switch to either:  
      i. “粵切字 (禾旡·比\`·版)” (web version of the keyboard), or  
      ii. “粵切字 (夫干·天\`·版)” (font version of the keyboard)  
