@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/jyutcitzi/jyutcitzi-RIME.svg) ![GitHub](https://img.shields.io/github/license/jyutcitzi/jyutcitzi-RIME.svg)  
 Recipe: ℞ **jyutcitzi/jyutcitzi-RIME**
 
-Other READMEs: HK Cantonese（[Honzi](README.yue-hk.honzi.md)，[Honzi-Jyutcitzi](README.yue-hk.honzi-jcz.md)）| [English](README.md)
+Other READMEs: HK Cantonese（[Honzi](README.yue-hk.honzi.md), [Honzi-Jyutcitzi](README.yue-hk.honzi-jcz.md)）| [English](README.md)
 
 RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Cantonese.  
 Thanks for supporting this Jyutcitzi keyboard and font project! The following sections contains the installation instruction for Mac and Windows, as well as some words on how to use the keyboard itself, and concludes with a FAQ section:  
