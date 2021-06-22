@@ -44,7 +44,7 @@ This step is required in order to render the Jyutcitzi characters. In terms of f
       ii. “粵切字 (夫干·天\`·版)” (font version of the keyboard)  
    g. Start typing!
 #### For Windows: 
-   a. Press Windows Key + R, enter %AppData%\Rime and press ENTER (try %AppData%\Rime). A new window should appear  
+   a. Press Windows Key + R, enter %AppData%\Rime and press ENTER. A new window should appear  
    b. Copy and paste the YAML files to the Rime folder  
    c. Press "All Applications" > "RIME Weasel" > "[Weasel]Deploy"  
    d. Wait for the keyboards to load (please be patient!)  
