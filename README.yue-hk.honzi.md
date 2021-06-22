@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/jyutcitzi/jyutcitzi-RIME.svg) ![GitHub](https://img.shields.io/github/license/jyutcitzi/jyutcitzi-RIME.svg)  
 配方: ℞ **jyutcitzi/jyutcitzi-RIME**
 
-其他 README 版本：香港粵語（[漢字](README.yue-hk.honzi.md)，[漢󱛍](README.yue-hk.honzi-jcz.md)）| [英語](README.md)
+其他 README 版本：香港粵語（[漢字](README.yue-hk.honzi.md)，[漢字粵切字](README.yue-hk.honzi-jcz.md)）| [英語](README.md)
 
 一個用嚟實現漢字粵切字混寫嘅 RIME 鍵盤  
 多謝支持粵切字嘅鍵盤同字體！下面會講點樣去安裝同用呢個鍵盤，最尾呢就會有個 FAQ section：  
