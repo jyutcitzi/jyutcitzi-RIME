@@ -73,7 +73,7 @@ This step is required in order to render the Jyutcitzi characters. In terms of f
 Apart from these files, the keyboard also relies on jyut6ping3.dict.yaml and jyut6ping3.phrase.dict.yaml from RIME Cantonese, which is why that has to be installed.
 
 ## Keyboard Features
-Like RIME Cantonese, the keyboard has the following useful features:
+Like RIME Cantonese, the keyboard has the following useful features:  
 0. Hit CTRL + OPTION + ` to redeploy RIME if it bugs out. Restart the computer if necessary.
 1. Hit F4 or CTRL + ` (the backward tick next to the escape button) to switch between RIME keyboards via the arrow and enter key.
 2. Hitting the SHIFT or CAPS LOCK key allows one to switch between Latin (A) and Jyutping (中)
