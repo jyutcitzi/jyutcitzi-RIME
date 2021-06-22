@@ -16,7 +16,7 @@ Thanks for supporting this Jyutcitzi keyboard and font project! The following se
 ## Installation Instructions
 For further questions regarding installation please ask at https://t.me/jyutzigoigaak.
 ### Step 1: Install RIME and RIME Cantonese
-Please follow instructions at https://github.com/rime/rime-cantonese/wikihttps://github.com/rime/rime-cantonese/wiki/新手安裝教程  
+Please follow instructions at https://github.com/rime/rime-cantonese/wiki and https://github.com/rime/rime-cantonese/wiki/新手安裝教程  
 In a nutshell, download and install using the following files:  
 Mac: [mac-2021.05.16-installer.pkg](https://github.com/rime/rime-cantonese/releases/download/2021.05.16/mac-2021.05.16-installer.pkg)  
 Windows: [windows-sfx-2021.05.16-installer.exe](https://github.com/rime/rime-cantonese/releases/download/2021.05.16/windows-sfx-2021.05.16-installer.exe)  
