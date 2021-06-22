@@ -8,8 +8,9 @@
 多謝支持粵切字嘅鍵盤同字體！下面會講點樣去安裝同用呢個鍵盤，最尾呢就會有個 FAQ section：  
 1. [安裝步驟](#安裝步驟)  
 2. [鍵盤特徵](#鍵盤特徵)
-3. [常見問題](#常見問題)
-4. [軟件更新](#軟件更新)  
+3. [文件描述](#文件描述)
+4. [常見問題](#常見問題)
+5. [軟件更新](#軟件更新)  
 
 ![Cover Picture](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/d5f0104ab5d2a111f9dc2a0ffa511709fb88f83e/images/cover_picture.png)
 
