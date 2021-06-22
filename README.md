@@ -2,6 +2,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/jyutcitzi/jyutcitzi-RIME.svg) ![GitHub](https://img.shields.io/github/license/jyutcitzi/jyutcitzi-RIME.svg)  
 Recipe: ℞ **jyutcitzi/jyutcitzi-RIME**
 
+Other READMEs: HK Cantonese（[Honzi](README.yue-hk.honzi.md)，[Honzi-Jyutcitzi](README.yue-hk.honzi-jcz.md)）| [English](README.md)
+
 RIME keyboard for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Cantonese.  
 Thanks for supporting this Jyutcitzi keyboard and font project! The following sections contains the installation instruction for Mac and Windows, as well as some words on how to use the keyboard itself, and concludes with a FAQ section:  
 1. [Installation Instructions](#installation-instructions)  
@@ -60,11 +62,11 @@ This step is required in order to render the Jyutcitzi characters. In terms of f
 - **jyutcitzi_web.schema.yaml** - config file for the Jyutcitzi web keyboard 
 - **jyutcitzi_font.dict.yaml** - main dictionary for the Jyutcitzi font keyboard, and contains a wide selection of monosyllables rendered using font-based Jyutcitzi characters
 - **jyutcitzi_web.dict.yaml** - main dictionary for the Jyutcitzi web keyboard, and contains a wide selection of monosyllables rendered using web-based Jyutcitzi characters
-- **jyutcitzi_core.lettered.dict.yaml** - dictionary containing the original list of latin- containing compounds from jyut6ping3.lettered.dict.yaml 
+- **jyutcitzi_core.lettered.dict.yaml** - dictionary containing the original list of Latin-containing compounds from jyut6ping3.lettered.dict.yaml 
 - **jyutcitzi_font.lettered.dict.yaml** - dictionary containing Latin-containing compounds, which are rendered using font-based Jyutcitzi characters
 - **jyutcitzi_web.lettered.dict.yaml** - dictionary containing Latin-containing compounds, which are rendered using web-based Jyutcitzi characters 
 - **jyutcitzi_font.compound.dict.yaml** - dictionary containing Honzi compounds, which are rendered using font-based Jyutcitzi characters 
-- **jyutcitzi_web.compound.dict.yaml** - dictionary containing Honzi vocabulary, which are rendered using font-based Jyutcitzi characters
+- **jyutcitzi_web.compound.dict.yaml** - dictionary containing Honzi compounds, which are rendered using web-based Jyutcitzi characters
 - **jyutcitzi_font.phrase.dict.yaml** - dictionary containing Cantonese phrases, which are rendered using font-based Jyutcitzi characters
 - **jyutcitzi_web.phrase.dict.yaml** - dictionary containing Cantonese phrases, which are rendered using web-based Jyutcitzi characters 
 - **jyutcitzi.jyutcit_phrases.dict.yaml** - dictionary containing a selection of phrases from existing Jyutcitzi literature
@@ -108,13 +110,13 @@ A: It directly comes from the lexicon used in RIME Cantonese (a version from Feb
 1. Due to aesthetic issues with Suzhou numerals not fitting into the square box, Jyutcitzi now uses tone marks at the glyph's top-right corner instead when marking tones.
 2. The repeat glyph 々 can be toned, e.g. Rv ⇒ 々 ̄:  
    ![Toneful repeat](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/aee302bd087caba2e933d9f22a11b8455ace1e87/images/toneful_repeat.png)
-3. A sufficient amount of initial consonant cluster-containing Jyutcitzis were added, such as “shwaang” (厶亾禾生), “fwoe” (夫禾居·) and “jyue” (央仒旡·):  
+3. A sufficient amount of initial consonant cluster-containing Jyutcitzis were added, such as “shwaang” (厶亾禾生), “fwoe” (夫禾居) and “jyue” (央仒旡):  
    ![shwaang fwoe jyue](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/aee302bd087caba2e933d9f22a11b8455ace1e87/images/shwaang_fwoe_jyue.png)
 4. Numerous tone-free combinations relating to consonant clusters were also added. Examples include “soecj” and “witcj” (English “search” and “which”):  
    ![soecj witcj](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/aee302bd087caba2e933d9f22a11b8455ace1e87/images/soecj_witcj.png)
 5. The keyboard also allows one to transcribe English, Mandarin, Japanese, Taiwanese Hokkien and Taiwanese Hakka in Jyutcitzi. To do this, the following novel components are added:  
 a. 圭(⿰) for v- (used in Taiwanese Hakka and English)  
-b. ㄖ (⿰) or the consonant cluster wl- (禾力,⿰) for English/Mandarin r-  
+b. ㄖ (⿰) or the consonant cluster wl- 禾力 (⿰) for English/Mandarin r-  
 c. 止 for Mandarin -i and Early Cantonese -i  
 d. 亇for Mandarin Pinyin -e and English shwa sound  
 e. 艮 for Mandarin Pinyin -en  
