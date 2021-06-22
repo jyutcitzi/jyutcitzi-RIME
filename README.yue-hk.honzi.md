@@ -38,7 +38,7 @@ Linux：上網 google 「點樣喺**你用緊嘅Linux distro**安裝字體」
    c. 將啲 YAML 文件 copy and paste 落去個 RIME folder 入面。  
    d. 喺輸入法 menu度再揀「鼠鬚管」輸入法，跟住㩒「重新部署」  
    e. 等啲鍵盤 load（畀啲耐性！）  
-   f. 㩒 F4 或者 CTRL + \` 嚟轉換到「粵切字 (禾旡·比\`·版)」（即網版鍵盤）或者「粵切字 (夫干·天`·版)」（即字體版鍵盤）。  
+   f. 㩒 F4 或者 CTRL + \` 嚟轉換到「粵切字 (禾旡·比\`·版)」（即網版鍵盤）或者「粵切字 (夫干·天\`·版)」（即字體版鍵盤）。  
    g. 噉就可以用倒個鍵盤㗎喇。  
 
 #### Windows 呢就要：
@@ -46,8 +46,25 @@ Linux：上網 google 「點樣喺**你用緊嘅Linux distro**安裝字體」
    b. 將啲 YAML 文件 copy and paste 落去個 RIME folder 入面。  
    c. 喺 start menu 揾同開始 「【小狼毫】重新部署」  
    d. 等啲鍵盤 load（畀啲耐性！）  
-   e. 㩒 F4 或者 CTRL + \` 嚟轉換到「粵切字 (禾旡·比\`·版)」（即網版鍵盤）或者「粵切字 (夫干·天`·版)」（即字體版鍵盤）。  
+   e. 㩒 F4 或者 CTRL + \` 嚟轉換到「粵切字 (禾旡·比\`·版)」（即網版鍵盤）或者「粵切字 (夫干·天\`·版)」（即字體版鍵盤）。  
    f. 噉就可以用倒個鍵盤㗎喇。  
+
+## 文件描述
+- **default.custom.yaml** - 嚟指明要用邊啲 RIME 鍵盤（即係RIME Cantonese同粵切字鍵盤）嘅config file
+- **squirrel.custom.yaml** - 嚟指明RIME 嘅介面所用嘅字體（要呢個文件先至可以揀字嗰陣顯示到啲粵切字）
+- **jyutcitzi_font.schema.yaml** - 字體版鍵盤嘅 config file
+- **jyutcitzi_web.schema.yaml** - 網版鍵盤嘅 config file 
+- **jyutcitzi_font.dict.yaml** - 字體版鍵盤嘅主要字典，含有好多唔同單音節網版粵切字
+- **jyutcitzi_web.dict.yaml** - 網版鍵盤嘅主要字典，含有好多唔同單音節網版粵切字
+- **jyutcitzi_core.lettered.dict.yaml** - 原本嚟自 jyut6ping3.lettered.dict.yaml
+- **jyutcitzi_font.lettered.dict.yaml** - 一個顯示字體版粵切字而含拉丁字嘅粵語字典
+- **jyutcitzi_web.lettered.dict.yaml** - 一個顯示網版粵切字而含拉丁字嘅粵語字典
+- **jyutcitzi_font.compound.dict.yaml** - 一個顯示字體版粵切字嘅粵語詞語嘅字典  
+- **jyutcitzi_web.compound.dict.yaml** - 一個顯示網版粵切字嘅粵語詞語嘅字典  
+- **jyutcitzi_font.phrase.dict.yaml** - 一個顯示字體版粵切字嘅粵語組詞字典  
+- **jyutcitzi_web.phrase.dict.yaml** - 一個顯示網版粵切字嘅粵語組詞字典  
+- **jyutcitzi.jyutcit_phrases.dict.yaml** - 一個含有選自粵切字文學嘅字句嘅字典  
+- **mapping.txt** - 一 list Unicode數字同佢哋所對應嘅粵切字同改革漢字  
 
 ## 鍵盤特徵
    0. 如果個鍵盤有問題可以㩒 CTRL + OPTION + \` 嚟重新部署，再唔得可以 restart 部電腦。  
@@ -64,7 +81,7 @@ Linux：上網 google 「點樣喺**你用緊嘅Linux distro**安裝字體」
 ![Apostrophe for separating](https://github.com/jyutcitzi/jyutcitzi-RIME/blob/194d5590b80284f298057cd7f67dbe43b7c151e2/images/apostrophe_for_separating.png) 
    6. 啲粵切字鍵盤都有呢啲聲調鍵掣：  
       Q ⇒  ̄，W ⇒  ́，E ⇒ \`，A ⇒ =，S ⇒  ̋，D ⇒ ﾞ，R⇒々
-   7. 兩個粵切字鍵盤都會顯示有聲調粵切字同冇聲調粵切字嘅output選擇。有啲單音節係淨係得個冇內置聲調嘅粵切字，嗰啲字如果想標調嘅話就可以用上面嗰啲聲調鍵掣。
+   7. 兩個粵切字鍵盤都會顯示有聲調粵切字同冇聲調粵切字嘅 output 選擇。有啲單音節係淨係得個冇內置聲調嘅粵切字，嗰啲字如果想標調嘅話就可以用上面嗰啲聲調鍵掣。
 
 注意：唔好一次過打太多，唔係嘅話會好易 lag 機㗎！
 
@@ -73,7 +90,7 @@ Linux：上網 google 「點樣喺**你用緊嘅Linux distro**安裝字體」
 答：可以喺輸入法 menu 度重新部署，再唔得就 restart 部電腦。
 
 問：我打唔到某個粵切字，譬如 schweis！  
-答：呢個粵切字鍵盤淨係會冚倒通常會喺英文同粵語見到嘅。如果你覺得個鍵盤係需要加某個單音節粵切字嘅話，你可以[開個新嘅issue](https://github.com/jyutcitzi/jyutcitzi-RIME/issues/new)嚟畀意見！
+答：呢個粵切字鍵盤淨係會冚倒通常會喺英文同粵語見到嘅。如果你覺得個鍵盤係需要加某個單音節粵切字嘅話，你可以[開個新嘅 issue](https://github.com/jyutcitzi/jyutcitzi-RIME/issues/new)嚟畀意見！
 
 問：鍵盤啲字詞喺邊度嚟㗎？  
 答：啲字詞係嚟自 RIME Cantonese（準確嚟講應該係二〇二〇年二三月嗰個版本）
